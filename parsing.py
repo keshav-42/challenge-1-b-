@@ -116,6 +116,7 @@ def parse_and_feature_engineer(pdf_path: str) -> List[Dict[str, Any]]:
                 'fontname': block['fontname'],
                 'fontsize': block['fontsize'],
                 'page_number': block['page_number'],
+                'document_name': block['document_name'],
                 'features': {
                     'font_size': block['fontsize'],
                     'indentation': round(x0, 2),
