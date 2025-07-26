@@ -1,36 +1,59 @@
 [
     {
-        "text": "Comprehensive Guide to Restaurants and Hotels in the South of France Introduction",
+        "text": "Comprehensive Guide to Restaurants and Hotels in the South of France",
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 0,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 1,
             "y_coordinate": 717.19,
             "centering_offset": 48.67,
-            "word_count": 12
+            "word_count": 11
         },
         "feature_vector": [
             12.0,
             72.0,
             1,
             48.67,
-            12,
+            11,
             717.19,
             6.0
         ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip.",
+        "text": "Introduction",
+        "fontname": "YFAZBC+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 0,
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 692.05,
+            "centering_offset": 200.14,
+            "word_count": 1
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            200.14,
+            1,
+            692.05,
+            6.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "H1"
+    },
+    {
+        "text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite\ncuisine, is a dream destination for travelers. From the glamorous beaches of the French\nRiviera to the charming villages of Provence, this region oﬀers a diverse array of experiences.\nWhether you're looking for budget-friendly options, family-friendly spots, upscale dining, or\nluxurious experiences, this guide will help you find the perfect restaurants and hotels for your\ntrip.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 0,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -48,15 +71,14 @@
             667.0,
             6.0
         ],
-        "cluster_label": 0,
+        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
-        "text": "Restaurants Budget-Friendly Restaurants",
+        "text": "Restaurants\nBudget-Friendly Restaurants",
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -74,527 +96,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 665.84,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            665.84,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this casual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and friendly service make it a favorite among locals and tourists alike.",
+        "text": "•  Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this\ncasual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and\nfriendly service make it a favorite among locals and tourists alike.\n•  La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The\nmenu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a\nmust due to its popularity and limited seating.\n•  Chez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats,\nthis family-owned restaurant is a local favorite. The lively atmosphere and hearty\nportions make it a great spot for a casual meal.\n•  Le Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with\nhearty Provençal dishes at reasonable prices. The warm, welcoming environment and\ngenerous servings make it a must-visit.\n•  Le Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes\nat aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a\ncasual meal.\n•  Le Petit Nice (Marseille): A budget-friendly option oﬀering a variety of seafood dishes.\nThe relaxed setting and fresh ingredients make it a popular choice.\n•  Le Café de Turin (Nice): Known for its seafood, this café oﬀers a variety of aﬀordable\ndishes in a lively setting. The fresh oysters are a must-try.\n•  Le Panier (Marseille): A casual eatery oﬀering a variety of Mediterranean dishes at\nreasonable prices. The outdoor seating and friendly service make it a great spot for a\nrelaxed meal.\n•  Le Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes\nat aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a\ncasual meal.\n•  Le Petit Pontoise (Paris): A charming bistro oﬀering a variety of traditional French\ndishes at reasonable prices. The cozy atmosphere and friendly service make it a great\nspot for a casual meal.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 667.0,
-            "centering_offset": 8.44,
-            "word_count": 36
+            "centering_offset": 10.36,
+            "word_count": 321
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            8.44,
-            36,
+            10.36,
+            321,
             667.0,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 606.5,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            606.5,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The menu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a must due to its popularity and limited seating.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 607.66,
-            "centering_offset": 19.36,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            19.36,
-            33,
-            607.66,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 547.22,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            547.22,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Chez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats, this family-owned restaurant is a local favorite. The lively atmosphere and hearty portions make it a great spot for a casual meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 548.38,
-            "centering_offset": 14.2,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.2,
-            35,
-            548.38,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 487.94,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            487.94,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with hearty Provençal dishes at reasonable prices. The warm, welcoming environment and generous servings make it a must-visit.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 489.1,
-            "centering_offset": 16.81,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.81,
-            31,
-            489.1,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 428.66,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            428.66,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes at aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a casual meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 429.82,
-            "centering_offset": 15.4,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.4,
-            32,
-            429.82,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 369.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            369.38,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Nice (Marseille): A budget-friendly option oﬀering a variety of seafood dishes. The relaxed setting and fresh ingredients make it a popular choice.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 370.54,
-            "centering_offset": 17.77,
-            "word_count": 24
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.77,
-            24,
-            370.54,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 327.14,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            327.14,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Café de Turin (Nice): Known for its seafood, this café oﬀers a variety of aﬀordable dishes in a lively setting. The fresh oysters are a must-try.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 328.3,
-            "centering_offset": 12.85,
-            "word_count": 27
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.85,
-            27,
-            328.3,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 284.96,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            284.96,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Panier (Marseille): A casual eatery oﬀering a variety of Mediterranean dishes at reasonable prices. The outdoor seating and friendly service make it a great spot for a relaxed meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 286.12,
-            "centering_offset": 13.78,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.78,
-            30,
-            286.12,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 225.68,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            225.68,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes at aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a casual meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 226.84,
-            "centering_offset": 15.55,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.55,
-            31,
-            226.84,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 166.4,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            166.4,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Pontoise (Paris): A charming bistro oﬀering a variety of traditional French dishes at reasonable prices. The cozy atmosphere and friendly service make it a great spot for a casual meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 167.56,
-            "centering_offset": 15.64,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.64,
-            32,
-            167.56,
-            9.0
-        ],
-        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
@@ -602,7 +129,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -620,527 +146,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 690.92,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            690.92,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Club 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly atmosphere with a menu featuring fresh seafood and Mediterranean dishes. The beachside location and casual vibe make it perfect for families.",
+        "text": "•  Club 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly\natmosphere with a menu featuring fresh seafood and Mediterranean dishes. The\nbeachside location and casual vibe make it perfect for families.\n•  Le Safari (Nice): Located in the heart of the old town, this restaurant oﬀers a diverse\nmenu with options for both adults and children. The lively setting and outdoor seating\nmake it a great spot for a family meal.\n•  La Table du Marché (Saint-Rémy-de-Provence): A welcoming restaurant with a varied\nmenu that includes kid-friendly options and fresh, local ingredients. The charming\nsetting and friendly staﬀ ensure a pleasant dining experience for families.\n•  Le Grill (Decize): A family-friendly restaurant oﬀering a variety of grilled meats and\nclassic French dishes in a casual setting. The relaxed atmosphere and extensive menu\ncater to all ages.\n•  Le Jardin de Benjamin (Lorgues): This restaurant oﬀers a variety of dishes made with\nfresh, local ingredients. The outdoor seating and kid-friendly menu make it a great\nspot for families.\n•  Le Petit Jardin (Montpellier): A family-friendly restaurant oﬀering a variety of\nMediterranean dishes. The outdoor seating and relaxed atmosphere make it a great\nspot for a family meal.\n•  Le Café de la Plage (Arcachon): This beachfront café oﬀers a variety of seafood dishes\nand kid-friendly options. The relaxed setting and beautiful views make it a great spot\nfor families.\n•  Le Petit Nice (Marseille): A family-friendly restaurant oﬀering a variety of seafood\ndishes. The relaxed setting and fresh ingredients make it a popular choice.\n•  Le Jardin des Sens (Montpellier): This restaurant oﬀers a variety of dishes made with\nfresh, local ingredients. The outdoor seating and kid-friendly menu make it a great\nspot for families.\n•  Le Café des Arts (Nice): A family-friendly café oﬀering a variety of dishes and kid-\nfriendly options. The relaxed setting and friendly service make it a great spot for a\nfamily meal.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 3.22,
-            "word_count": 32
+            "centering_offset": 8.65,
+            "word_count": 319
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            3.22,
-            32,
+            8.65,
+            319,
             692.08,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 631.64,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            631.64,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Safari (Nice): Located in the heart of the old town, this restaurant oﬀers a diverse menu with options for both adults and children. The lively setting and outdoor seating make it a great spot for a family meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 632.8,
-            "centering_offset": 17.65,
-            "word_count": 39
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.65,
-            39,
-            632.8,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 572.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            572.36,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Table du Marché (Saint-Rémy-de-Provence): A welcoming restaurant with a varied menu that includes kid-friendly options and fresh, local ingredients. The charming setting and friendly staﬀ ensure a pleasant dining experience for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 573.52,
-            "centering_offset": 17.41,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.41,
-            33,
-            573.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 513.08,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            513.08,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Grill (Decize): A family-friendly restaurant oﬀering a variety of grilled meats and classic French dishes in a casual setting. The relaxed atmosphere and extensive menu cater to all ages.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 514.24,
-            "centering_offset": 15.64,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.64,
-            30,
-            514.24,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 453.8,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            453.8,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Jardin de Benjamin (Lorgues): This restaurant oﬀers a variety of dishes made with fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great spot for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 454.96,
-            "centering_offset": 13.75,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.75,
-            30,
-            454.96,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 394.46,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            394.46,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Jardin (Montpellier): A family-friendly restaurant oﬀering a variety of Mediterranean dishes. The outdoor seating and relaxed atmosphere make it a great spot for a family meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 395.62,
-            "centering_offset": 11.26,
-            "word_count": 28
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            11.26,
-            28,
-            395.62,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 335.18,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            335.18,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Café de la Plage (Arcachon): This beachfront café oﬀers a variety of seafood dishes and kid-friendly options. The relaxed setting and beautiful views make it a great spot for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 336.34,
-            "centering_offset": 16.21,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.21,
-            31,
-            336.34,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 275.9,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            275.9,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Nice (Marseille): A family-friendly restaurant oﬀering a variety of seafood dishes. The relaxed setting and fresh ingredients make it a popular choice.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 277.06,
-            "centering_offset": 6.07,
-            "word_count": 24
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            6.07,
-            24,
-            277.06,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 233.72,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            233.72,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Jardin des Sens (Montpellier): This restaurant oﬀers a variety of dishes made with fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great spot for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 234.88,
-            "centering_offset": 13.15,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.15,
-            30,
-            234.88,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 174.44,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            174.44,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Café des Arts (Nice): A family-friendly café oﬀering a variety of dishes and kid-friendly options. The relaxed setting and friendly service make it a great spot for a family meal.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 175.6,
-            "centering_offset": 6.28,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            6.28,
-            31,
-            175.6,
-            9.0
-        ],
-        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
@@ -1148,7 +179,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -1166,527 +196,57 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 690.92,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            690.92,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a fine-dining experience with innovative dishes inspired by Mediterranean flavors. The artistic presentation and unique flavor combinations make it a culinary adventure.",
+        "text": "•  AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a\nfine-dining experience with innovative dishes inspired by Mediterranean flavors. The\nartistic presentation and unique flavor combinations make it a culinary adventure.\n•  Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a\nunique dining experience with a focus on fresh, local ingredients and innovative\ndishes. The stunning views of the Mediterranean add to the allure.\n•  La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred\nrestaurant serves refined Provençal cuisine with breathtaking views of the French\nRiviera. The elegant setting and impeccable service make it a memorable dining\nexperience.\n•  Hostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant oﬀering\ntraditional French fare created from the very best local ingredients. The historic setting\nand exquisite dishes make it a must-visit for food enthusiasts.\n•  Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an\nopulent dining experience with a menu that celebrates the flavors of the\nMediterranean. The lavish decor and exceptional service make it a dining experience\nto remember.\n•  La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the\nluxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the\nland. The serene setting and culinary excellence make it a top choice for fine dining.\n•  Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering\nexquisite seafood dishes and stunning views of the Mediterranean. The creative menu\nand elegant ambiance make it a standout dining destination.\n•  La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has\nhosted famous artists and celebrities, oﬀering a luxurious dining experience with a\nfocus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique\nexperience.\n•  Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of\ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 14.02,
-            "word_count": 31
+            "centering_offset": 9.7,
+            "word_count": 320
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            14.02,
-            31,
+            9.7,
+            320,
             692.08,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 631.64,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            631.64,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. The stunning views of the Mediterranean add to the allure.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 632.8,
-            "centering_offset": 15.49,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.49,
-            36,
-            632.8,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 572.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            572.36,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The elegant setting and impeccable service make it a memorable dining experience.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 573.52,
-            "centering_offset": 5.56,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            5.56,
-            35,
-            573.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 495.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            495.98,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant oﬀering traditional French fare created from the very best local ingredients. The historic setting and exquisite dishes make it a must-visit for food enthusiasts.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 497.14,
-            "centering_offset": 18.25,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.25,
-            32,
-            497.14,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 436.7,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            436.7,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an opulent dining experience with a menu that celebrates the flavors of the Mediterranean. The lavish decor and exceptional service make it a dining experience to remember.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 437.86,
-            "centering_offset": 18.7,
-            "word_count": 38
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.7,
-            38,
-            437.86,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 360.26,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            360.26,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 361.42,
-            "centering_offset": 16.96,
-            "word_count": 39
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.96,
-            39,
-            361.42,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 300.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            300.98,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 302.14,
-            "centering_offset": 16.66,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.66,
-            30,
-            302.14,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 241.7,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            241.7,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, oﬀering a luxurious dining experience with a focus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique experience.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 242.86,
-            "centering_offset": 16.36,
-            "word_count": 38
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.36,
-            38,
-            242.86,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 165.32,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            165.32,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 3,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 166.48,
-            "centering_offset": 16.27,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.27,
-            32,
-            166.48,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 716.06,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            716.06,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
+        "text": "•  Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made\nwith fresh, local ingredients. The elegant setting and exceptional service make it a top\nchoice for fine dining.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 4,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 717.22,
-            "centering_offset": 16.39,
-            "word_count": 31
+            "centering_offset": 7.39,
+            "word_count": 32
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            16.39,
-            31,
+            7.39,
+            32,
             717.22,
-            9.0
+            7.5
         ],
-        "cluster_label": 0,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -1694,7 +254,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -1712,743 +271,64 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 690.92,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            690.92,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an opulent dining experience with a menu that celebrates the flavors of the Mediterranean. The lavish decor and exceptional service make it a dining experience to remember.",
+        "text": "•  Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an\nopulent dining experience with a menu that celebrates the flavors of the\nMediterranean. The lavish decor and exceptional service make it a dining experience\nto remember.\n•  La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the\nluxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the\nland. The serene setting and culinary excellence make it a top choice for fine dining.\n•  Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering\nexquisite seafood dishes and stunning views of the Mediterranean. The creative menu\nand elegant ambiance make it a standout dining destination.\n•  La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has\nhosted famous artists and celebrities, oﬀering a luxurious dining experience with a\nfocus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique\nexperience.\n•  Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant oﬀering a variety of\ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.\n•  Le Chantecler (Nice): A Michelin-starred restaurant oﬀering a variety of dishes made\nwith fresh, local ingredients. The elegant setting and exceptional service make it a top\nchoice for fine dining.\n•  Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of\ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.\n•  Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made\nwith fresh, local ingredients. The elegant setting and exceptional service make it a top\nchoice for fine dining.\n•  Le Jardin des Sens (Montpellier): A Michelin-starred restaurant oﬀering a variety of\ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.\n•  Le Petit Nice (Marseille): A Michelin-starred restaurant oﬀering a variety of dishes\nmade with fresh, local ingredients. The elegant setting and exceptional service make it\na top choice for fine dining.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 18.7,
-            "word_count": 38
+            "centering_offset": 9.7,
+            "word_count": 341
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            18.7,
-            38,
+            9.7,
+            341,
             692.08,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 614.54,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            614.54,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 615.7,
-            "centering_offset": 16.96,
-            "word_count": 39
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.96,
-            39,
-            615.7,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 555.26,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            555.26,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 556.42,
-            "centering_offset": 16.66,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.66,
-            30,
-            556.42,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 495.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            495.98,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, oﬀering a luxurious dining experience with a focus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique experience.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 497.14,
-            "centering_offset": 16.36,
-            "word_count": 38
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.36,
-            38,
-            497.14,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 419.6,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            419.6,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 420.76,
-            "centering_offset": 15.16,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.16,
-            30,
-            420.76,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 360.26,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            360.26,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Chantecler (Nice): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 361.42,
-            "centering_offset": 16.39,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.39,
-            30,
-            361.42,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 300.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            300.98,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 302.14,
-            "centering_offset": 16.27,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.27,
-            32,
-            302.14,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 241.7,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            241.7,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 242.86,
-            "centering_offset": 16.39,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.39,
-            31,
-            242.86,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 182.42,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            182.42,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Jardin des Sens (Montpellier): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 183.58,
-            "centering_offset": 15.16,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.16,
-            32,
-            183.58,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 123.14,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            123.14,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Petit Nice (Marseille): A Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 5,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 124.3,
-            "centering_offset": 17.98,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.98,
-            31,
-            124.3,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 716.06,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            716.06,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Villa Madie (Cassis): A two-Michelin-starred restaurant oﬀering a variety of dishes inspired by the Mediterranean. The stunning views and exceptional service make it a top choice for luxurious dining.",
+        "text": "•  La Villa Madie (Cassis): A two-Michelin-starred restaurant oﬀering a variety of dishes\ninspired by the Mediterranean. The stunning views and exceptional service make it a\ntop choice for luxurious dining.\n•  Le Clos des Sens (Annecy): A three-Michelin-starred restaurant oﬀering a variety of\ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.\n•  Le Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of\ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.\n•  Le Pré Catelan (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes\nmade with fresh, local ingredients. The elegant setting and exceptional service make it\na top choice for fine dining.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 717.22,
-            "centering_offset": 14.65,
-            "word_count": 30
+            "centering_offset": 8.98,
+            "word_count": 128
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            14.65,
-            30,
+            8.98,
+            128,
             717.22,
-            9.0
+            7.5
         ],
-        "cluster_label": 0,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 656.78,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            656.78,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Clos des Sens (Annecy): A three-Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 657.94,
-            "centering_offset": 15.16,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.16,
-            32,
-            657.94,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 597.5,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            597.5,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 598.66,
-            "centering_offset": 15.16,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.16,
-            31,
-            598.66,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 538.16,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            538.16,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Pré Catelan (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes made with fresh, local ingredients. The elegant setting and exceptional service make it a top choice for fine dining.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 539.32,
-            "centering_offset": 17.98,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.98,
-            31,
-            539.32,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotels Budget-Friendly Hotels",
+        "text": "Hotels\nBudget-Friendly Hotels",
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -2466,7 +346,7 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
@@ -2474,519 +354,49 @@
         "fontname": "HECMXK+SymbolMT",
         "fontsize": 10.02,
         "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 10.02,
             "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 665.84,
-            "centering_offset": 213.7,
+            "centering_offset": 212.3,
             "word_count": 1
         },
         "feature_vector": [
             10.02,
             90.0,
             0,
-            213.7,
+            212.3,
             1,
             665.84,
             8.982
         ],
-        "cluster_label": 1,
+        "cluster_label": 2,
         "predicted_label": "Body"
     },
     {
-        "text": "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers.",
+        "text": "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable\nrooms and easy access to the beach and city center. The modern amenities and\nconvenient location make it a great choice for budget-conscious travelers.\n•  Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering\naﬀordable rates and beautiful views of the Mediterranean. The cozy rooms and\nfriendly service make it a pleasant stay.\n•  Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of\nMontpellier, oﬀering comfortable rooms and easy access to the city's attractions. The\nartistic decor and central location make it a popular choice.\n•  Hotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and\na convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it\na good option for travelers on a budget.\n•  Hotel Azur (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy\naccess to the beach and city center. The modern amenities and convenient location\nmake it a great choice for budget-conscious travelers.\n•  Hotel de la Paix (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and\na convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it\na good option for travelers on a budget.\n•  Hotel du Palais (Montpellier): A budget-friendly hotel located in the heart of\nMontpellier, oﬀering comfortable rooms and easy access to the city's attractions. The\nartistic decor and central location make it a popular choice.\n•  Hotel de la Mer (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy\naccess to the beach and city center. The modern amenities and convenient location\nmake it a great choice for budget-conscious travelers.\n•  Hotel de la Plage (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and\na convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it\na good option for travelers on a budget.\n•  Hotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of\nMontpellier, oﬀering comfortable rooms and easy access to the city's attractions. The\nartistic decor and central location make it a popular choice.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 667.0,
-            "centering_offset": 18.1,
-            "word_count": 35
+            "centering_offset": 9.52,
+            "word_count": 353
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            18.1,
-            35,
+            9.52,
+            353,
             667.0,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 606.5,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            606.5,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering aﬀordable rates and beautiful views of the Mediterranean. The cozy rooms and friendly service make it a pleasant stay.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 607.66,
-            "centering_offset": 7.42,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            7.42,
-            33,
-            607.66,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 547.22,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            547.22,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 548.38,
-            "centering_offset": 14.95,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.95,
-            34,
-            548.38,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 487.94,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            487.94,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and a convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it a good option for travelers on a budget.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 489.1,
-            "centering_offset": 17.56,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.56,
-            35,
-            489.1,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 428.66,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            428.66,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel Azur (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 429.82,
-            "centering_offset": 10.78,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            10.78,
-            32,
-            429.82,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 369.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            369.38,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel de la Paix (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and a convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it a good option for travelers on a budget.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 370.54,
-            "centering_offset": 17.56,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.56,
-            36,
-            370.54,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 310.04,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            310.04,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel du Palais (Montpellier): A budget-friendly hotel located in the heart of Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 311.2,
-            "centering_offset": 14.95,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.95,
-            34,
-            311.2,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 250.76,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            250.76,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel de la Mer (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 251.92,
-            "centering_offset": 14.02,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.02,
-            34,
-            251.92,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 191.48,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            191.48,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel de la Plage (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and a convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it a good option for travelers on a budget.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 192.64,
-            "centering_offset": 18.52,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.52,
-            36,
-            192.64,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 132.2,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            132.2,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 133.36,
-            "centering_offset": 14.95,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.95,
-            35,
-            133.36,
-            9.0
-        ],
-        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
@@ -2994,7 +404,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -3012,527 +421,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 690.92,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            690.92,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of activities for children and adults, including sports, entertainment, and kids' clubs. The beautiful setting and all-inclusive amenities make it a hassle-free vacation spot.",
+        "text": "•  Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of\nactivities for children and adults, including sports, entertainment, and kids' clubs. The\nbeautiful setting and all-inclusive amenities make it a hassle-free vacation spot.\n•  Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering\nspacious rooms, beautiful gardens, and a variety of activities for children. The elegant\ndecor and attentive service ensure a comfortable stay for families.\n•  Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the\nbeach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The\nbeachfront location and family-oriented amenities make it a great choice for a seaside\nvacation.\n•  Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering\nspacious rooms, a kids' club, and a variety of outdoor activities. The picturesque\nsetting and family-friendly facilities make it a unique and enjoyable stay.\n•  Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious\nrooms, beautiful gardens, and a variety of activities for children. The elegant decor and\nattentive service ensure a comfortable stay for families.\n•  Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious\nrooms, beautiful gardens, and a variety of activities for children. The elegant decor and\nattentive service ensure a comfortable stay for families.\n•  Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering\nspacious rooms, beautiful gardens, and a variety of activities for children. The elegant\ndecor and attentive service ensure a comfortable stay for families.\n•  Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms,\nbeautiful gardens, and a variety of activities for children. The elegant decor and\nattentive service ensure a comfortable stay for families.\n•  Hôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms,\nbeautiful gardens, and a variety of activities for children. The elegant decor and\nattentive service ensure a comfortable stay for families.\n•  Hôtel de Paris (Monaco): A luxurious family-friendly hotel oﬀering spacious rooms,\nbeautiful gardens, and a variety of activities for children. The elegant decor and\nattentive service ensure a comfortable stay for families.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 15.73,
-            "word_count": 37
+            "centering_offset": 10.09,
+            "word_count": 347
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            15.73,
-            37,
+            10.09,
+            347,
             692.08,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 631.64,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            631.64,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 632.8,
-            "centering_offset": 15.16,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.16,
-            33,
-            632.8,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 572.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            572.36,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the beach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The beachfront location and family-oriented amenities make it a great choice for a seaside vacation.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 573.52,
-            "centering_offset": 17.47,
-            "word_count": 39
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.47,
-            39,
-            573.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 495.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            495.98,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Château de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering spacious rooms, a kids' club, and a variety of outdoor activities. The picturesque setting and family-friendly facilities make it a unique and enjoyable stay.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 497.14,
-            "centering_offset": 9.97,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            9.97,
-            36,
-            497.14,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 436.7,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            436.7,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 437.86,
-            "centering_offset": 19.09,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            19.09,
-            33,
-            437.86,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 377.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            377.36,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 378.52,
-            "centering_offset": 18.73,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.73,
-            32,
-            378.52,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 318.08,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            318.08,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 319.24,
-            "centering_offset": 15.91,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.91,
-            32,
-            319.24,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 258.8,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            258.8,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 259.96,
-            "centering_offset": 12.22,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.22,
-            32,
-            259.96,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 199.52,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            199.52,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 200.68,
-            "centering_offset": 10.81,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            10.81,
-            31,
-            200.68,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 140.24,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            140.24,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel de Paris (Monaco): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 141.4,
-            "centering_offset": 10.28,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            10.28,
-            32,
-            141.4,
-            9.0
-        ],
-        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
@@ -3540,7 +454,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -3558,59 +471,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 690.92,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            690.92,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des Anglais, oﬀering luxurious rooms and exceptional service. The opulent decor and prime location make it a landmark in Nice.",
+        "text": "•  Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des\nAnglais, oﬀering luxurious rooms and exceptional service. The opulent decor and\nprime location make it a landmark in Nice.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 5.23,
-            "word_count": 31
+            "centering_offset": 3.77,
+            "word_count": 32
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            5.23,
-            31,
+            3.77,
+            32,
             692.08,
-            9.0
+            7.5
         ],
-        "cluster_label": 0,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -3618,467 +504,49 @@
         "fontname": "HECMXK+SymbolMT",
         "fontsize": 10.02,
         "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 10.02,
             "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 631.64,
-            "centering_offset": 213.7,
+            "centering_offset": 212.3,
             "word_count": 1
         },
         "feature_vector": [
             10.02,
             90.0,
             0,
-            213.7,
+            212.3,
             1,
             631.64,
             8.982
         ],
-        "cluster_label": 1,
+        "cluster_label": 2,
         "predicted_label": "Body"
     },
     {
-        "text": "InterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a beautifully restored 18th-century building, oﬀering stunning views of the Old Port and the city. The elegant rooms and top-notch amenities make it a standout choice.",
+        "text": "InterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a\nbeautifully restored 18th-century building, oﬀering stunning views of the Old Port and\nthe city. The elegant rooms and top-notch amenities make it a standout choice.\n•  Hotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette,\noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The\nglamorous setting and high-end services make it a favorite among celebrities.\n•  La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building,\noﬀering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley.\nThe refined decor and serene atmosphere make it a perfect retreat.\n•  Hôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la\nCroisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant.\nThe glamorous setting and high-end services make it a favorite among celebrities.\n•  Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la\nCroisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant.\nThe glamorous setting and high-end services make it a favorite among celebrities.\n•  Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the\nBoulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-\nstarred restaurant. The glamorous setting and high-end services make it a favorite\namong celebrities.\n•  Hôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,\noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The\nglamorous setting and high-end services make it a favorite among celebrities.\n•  Hôtel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette,\noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The\nglamorous setting and high-end services make it a favorite among celebrities.\n•  Hôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croisette,\noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The\nglamorous setting and high-end services make it a favorite among celebrities.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 632.8,
-            "centering_offset": 17.26,
-            "word_count": 37
+            "centering_offset": 8.26,
+            "word_count": 333
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            17.26,
-            37,
+            8.26,
+            333,
             632.8,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 572.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            572.36,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 573.52,
-            "centering_offset": 13.51,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.51,
-            35,
-            573.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 513.08,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            513.08,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building, oﬀering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. The refined decor and serene atmosphere make it a perfect retreat.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 514.24,
-            "centering_offset": 12.97,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.97,
-            36,
-            514.24,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 453.8,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            453.8,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 454.96,
-            "centering_offset": 15.46,
-            "word_count": 37
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.46,
-            37,
-            454.96,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 394.46,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            394.46,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 395.62,
-            "centering_offset": 13.51,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.51,
-            36,
-            395.62,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 335.18,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            335.18,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 336.34,
-            "centering_offset": 7.24,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            7.24,
-            36,
-            336.34,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 258.8,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            258.8,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 259.96,
-            "centering_offset": 14.92,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.92,
-            36,
-            259.96,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 199.52,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            199.52,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 200.68,
-            "centering_offset": 13.51,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.51,
-            35,
-            200.68,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 140.24,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            140.24,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The glamorous setting and high-end services make it a favorite among celebrities.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 141.4,
-            "centering_offset": 12.97,
-            "word_count": 36
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.97,
-            36,
-            141.4,
-            9.0
-        ],
-        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
@@ -4086,7 +554,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -4104,527 +571,57 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 690.92,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            690.92,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, oﬀering elegant rooms, a spa, and a private beach. The exclusive setting and world-class amenities make it a top choice for luxury travelers.",
+        "text": "•  Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious\nhotel set on 7 hectares of Mediterranean gardens, oﬀering elegant rooms, a spa, and a\nprivate beach. The exclusive setting and world-class amenities make it a top choice for\nluxury travelers.\n•  Hôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of\nMonaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred\nrestaurants. The historic grandeur and exceptional service make it a premier\ndestination.\n•  Château Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château,\noﬀering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The\ntranquil setting and luxurious amenities make it a perfect getaway.\n•  Airelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic\nchâteau, oﬀering elegant rooms, beautiful gardens, and stunning views of the\nMediterranean. The refined ambiance and top-tier services make it a standout choice\nfor luxury accommodations.\n•  Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel oﬀering luxurious rooms, a\nprivate beach, and a world-class spa. The stunning location and impeccable service\nmake it a favorite among celebrities and discerning travelers.\n•  La Réserve Ramatuelle (Ramatuelle): A luxurious hotel oﬀering elegant rooms, a spa,\nand breathtaking views of the Mediterranean. The serene setting and exceptional\nservice make it a top choice for a relaxing retreat.\n•  Villa La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, oﬀering\nelegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and\nworld-class amenities make it a unique and memorable stay.\n•  Hôtel Hermitage Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a\nworld-class spa, and several fine dining options. The historic charm and exceptional\nservice make it a premier destination in Monaco.\n•  Le Byblos (Saint-Tropez): A luxurious hotel oﬀering elegant rooms, a spa, and a vibrant\nnightlife scene. The glamorous setting and top-notch amenities make it a favorite\namong the jet set.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 18.64,
-            "word_count": 41
+            "centering_offset": 10.27,
+            "word_count": 318
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            18.64,
-            41,
+            10.27,
+            318,
             692.08,
-            9.0
+            7.5
         ],
         "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 614.54,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            614.54,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of Monaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred restaurants. The historic grandeur and exceptional service make it a premier destination.",
+        "text": "•  Hôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a\nworld-class spa, and several Michelin-starred restaurants. The refined elegance and\nexceptional service make it a top choice for luxury travelers.",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
+        "page_number": 12,
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 615.7,
-            "centering_offset": 3.46,
-            "word_count": 35
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            3.46,
-            35,
-            615.7,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
             "indentation": 90.0,
             "is_bold": 0,
-            "y_coordinate": 538.16,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            538.16,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Château Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château, oﬀering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The tranquil setting and luxurious amenities make it a perfect getaway.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 539.32,
-            "centering_offset": 3.76,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            3.76,
-            34,
-            539.32,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 478.88,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            478.88,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Airelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic château, oﬀering elegant rooms, beautiful gardens, and stunning views of the Mediterranean. The refined ambiance and top-tier services make it a standout choice for luxury accommodations.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 480.04,
-            "centering_offset": 15.4,
-            "word_count": 39
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.4,
-            39,
-            480.04,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 402.5,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            402.5,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel du Cap-Eden-Roc (Antibes): A legendary hotel oﬀering luxurious rooms, a private beach, and a world-class spa. The stunning location and impeccable service make it a favorite among celebrities and discerning travelers.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 403.66,
-            "centering_offset": 10.21,
+            "y_coordinate": 717.22,
+            "centering_offset": 5.74,
             "word_count": 32
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             0,
-            10.21,
+            5.74,
             32,
-            403.66,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 343.22,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            343.22,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "La Réserve Ramatuelle (Ramatuelle): A luxurious hotel oﬀering elegant rooms, a spa, and breathtaking views of the Mediterranean. The serene setting and exceptional service make it a top choice for a relaxing retreat.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 344.38,
-            "centering_offset": 15.73,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.73,
-            33,
-            344.38,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 283.88,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            283.88,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Villa La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, oﬀering elegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and world-class amenities make it a unique and memorable stay.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 285.04,
-            "centering_offset": 13.24,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.24,
-            34,
-            285.04,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 224.6,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            224.6,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Hermitage Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a world-class spa, and several fine dining options. The historic charm and exceptional service make it a premier destination in Monaco.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 225.76,
-            "centering_offset": 14.71,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.71,
-            31,
-            225.76,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 165.32,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            165.32,
-            8.982
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Le Byblos (Saint-Tropez): A luxurious hotel oﬀering elegant rooms, a spa, and a vibrant nightlife scene. The glamorous setting and top-notch amenities make it a favorite among the jet set.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 166.48,
-            "centering_offset": 19.27,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            19.27,
-            30,
-            166.48,
-            9.0
-        ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "HECMXK+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 716.06,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            716.06,
-            8.982
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a world-class spa, and several Michelin-starred restaurants. The refined elegance and exceptional service make it a top choice for luxury travelers.",
-        "fontname": "DFJYTS+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Restaurants and Hotels",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 717.22,
-            "centering_offset": 14.74,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.74,
-            31,
             717.22,
-            9.0
+            7.5
         ],
-        "cluster_label": 0,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -4632,7 +629,6 @@
         "fontname": "YFAZBC+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 13,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -4650,15 +646,14 @@
             717.19,
             6.0
         ],
-        "cluster_label": 2,
+        "cluster_label": 1,
         "predicted_label": "H1"
     },
     {
-        "text": "The South of France oﬀers a wide range of dining and accommodation options to suit every budget and preference. Whether you're looking for budget-friendly eateries, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect places to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming villages of Provence, the South of France promises an unforgettable travel experience. Bon voyage!",
+        "text": "The South of France oﬀers a wide range of dining and accommodation options to suit every\nbudget and preference. Whether you're looking for budget-friendly eateries, family-friendly\nspots, upscale dining, or luxurious experiences, this guide will help you find the perfect places\nto eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming\nvillages of Provence, the South of France promises an unforgettable travel experience. Bon\nvoyage!",
         "fontname": "DFJYTS+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 13,
-        "document_name": "South of France - Restaurants and Hotels",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -4676,7 +671,7 @@
             692.08,
             6.0
         ],
-        "cluster_label": 0,
+        "cluster_label": 4,
         "predicted_label": "Body"
     }
 ]

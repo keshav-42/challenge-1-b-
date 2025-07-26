@@ -1,36 +1,59 @@
 [
     {
-        "text": "Comprehensive Guide to Major Cities in the South of France Introduction",
+        "text": "Comprehensive Guide to Major Cities in the South of France",
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 0,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 1,
             "y_coordinate": 717.19,
             "centering_offset": 77.81,
-            "word_count": 11
+            "word_count": 10
         },
         "feature_vector": [
             12.0,
             72.0,
             1,
             77.81,
-            11,
+            10,
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "Body"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich cultural heritage, is home to some of the most beautiful and historically significant cities in the country. This guide provides an in-depth look at the major cities in the South of France, detailing their history, key attractions, cultural highlights, and unique characteristics. Whether you're planning a visit or simply want to learn more about this enchanting region, this guide will oﬀer valuable insights into each city's charm and allure.",
+        "text": "Introduction",
+        "fontname": "KLRPWE+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 0,
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 692.05,
+            "centering_offset": 200.14,
+            "word_count": 1
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            200.14,
+            1,
+            692.05,
+            6.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "H1"
+    },
+    {
+        "text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich\ncultural heritage, is home to some of the most beautiful and historically significant cities in the\ncountry. This guide provides an in-depth look at the major cities in the South of France,\ndetailing their history, key attractions, cultural highlights, and unique characteristics. Whether\nyou're planning a visit or simply want to learn more about this enchanting region, this guide\nwill oﬀer valuable insights into each city's charm and allure.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 0,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -48,7 +71,7 @@
             667.0,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -56,7 +79,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 1,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -74,15 +96,14 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and mild winters, making it a year-round destination. The South of France is also famous for its cuisine, wines, and vibrant cultural scene.",
+        "text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur,\nOccitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes,\nfrom the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and\nthe rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and\nmild winters, making it a year-round destination. The South of France is also famous for its\ncuisine, wines, and vibrant cultural scene.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 1,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -100,7 +121,7 @@
             692.08,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -108,7 +129,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 1,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -126,241 +146,32 @@
             581.47,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 555.08,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            555.08,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Best Time to Visit",
-        "fontname": "KLRPWE+AdobeClean-Bold",
+        "text": "•  Best Time to Visit: The best time to visit the South of France is during the spring (April\nto June) and fall (September to October) when the weather is pleasant, and the tourist\ncrowds are smaller.\n•  Transportation: The region is well-connected by an extensive network of trains,\nbuses, and flights. Renting a car is also a great option for exploring the countryside\nand smaller towns.\n•  Language: While French is the oﬃcial language, English is widely spoken in tourist\nareas. Learning a few basic French phrases can enhance your travel experience.",
+        "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 1,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
+            "indentation": 90.0,
+            "is_bold": 0,
             "y_coordinate": 556.33,
-            "centering_offset": 152.63,
-            "word_count": 4
+            "centering_offset": 9.38,
+            "word_count": 93
         },
         "feature_vector": [
             12.0,
-            108.0,
-            1,
-            152.63,
-            4,
+            90.0,
+            0,
+            9.38,
+            93,
             556.33,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 556.24,
-            "centering_offset": 18.38,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.38,
-            33,
-            556.24,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 495.68,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            495.68,
-            8.982
+            7.5
         ],
         "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Transportation",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 496.93,
-            "centering_offset": 159.24,
-            "word_count": 1
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            159.24,
-            1,
-            496.93,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": The region is well-connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 496.84,
-            "centering_offset": 8.73,
-            "word_count": 29
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            8.73,
-            29,
-            496.84,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 436.28,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            436.28,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Language",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 437.53,
-            "centering_offset": 172.75,
-            "word_count": 1
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            172.75,
-            1,
-            437.53,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": While French is the oﬃcial language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 1,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 437.44,
-            "centering_offset": 7.9,
-            "word_count": 25
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            7.9,
-            25,
-            437.44,
-            9.0
-        ],
-        "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
@@ -368,7 +179,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 2,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -386,605 +196,107 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
+        "cluster_label": 1,
         "predicted_label": "Body"
     },
     {
-        "text": "History Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port throughout history. The city's rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the centuries, Marseille has been influenced by various cultures, including Greek, Roman, and North African, making it a melting pot of traditions and customs. Key Attractions",
+        "text": "History\nMarseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic\nlocation on the Mediterranean coast made it a vital trading port throughout history. The city's\nrich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the\ncenturies, Marseille has been influenced by various cultures, including Greek, Roman, and\nNorth African, making it a melting pot of traditions and customs.\nKey Attractions\n•  Old Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor\nfor over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and\nmarkets.\n•  Basilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill\noverlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea.\nBuilt in the 19th century, it is a symbol of the city's maritime heritage.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 2,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
             "centering_offset": 0.4,
-            "word_count": 71
+            "word_count": 143
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             0.4,
-            71,
+            143,
             692.08,
             6.0
         ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 547.16,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            547.16,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Old Port (Vieux-Port)",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 548.41,
-            "centering_offset": 142.13,
-            "word_count": 3
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            142.13,
-            3,
-            548.41,
-            9.0
-        ],
         "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": The heart of Marseille, the Old Port has been a bustling harbor for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and markets.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 548.32,
-            "centering_offset": 18.19,
-            "word_count": 29
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.19,
-            29,
-            548.32,
-            9.0
-        ],
-        "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 487.7,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            487.7,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Basilica of Notre-Dame de la Garde",
+        "text": "•  MuCEM (Museum of European and Mediterranean Civilizations): This modern",
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 2,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 488.95,
-            "centering_offset": 106.63,
-            "word_count": 6
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            106.63,
-            6,
-            488.95,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": This iconic basilica, perched on a hill overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea. Built in the 19th century, it is a symbol of the city's maritime heritage.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 488.86,
-            "centering_offset": 14.71,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.71,
-            34,
-            488.86,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
             "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 428.3,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            428.3,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "MuCEM (Museum of European and Mediterranean Civilizations)",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
             "is_bold": 1,
             "y_coordinate": 429.55,
-            "centering_offset": 32.57,
-            "word_count": 7
+            "centering_offset": 5.72,
+            "word_count": 10
         },
         "feature_vector": [
             12.0,
-            108.0,
+            90.0,
             1,
-            32.57,
-            7,
+            5.72,
+            10,
             429.55,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": This modern museum explores the cultural history of the Mediterranean region through a variety of exhibits and interactive displays.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 429.46,
-            "centering_offset": 18.61,
-            "word_count": 20
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.61,
-            20,
-            429.46,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 368.9,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            368.9,
-            8.982
+            7.5
         ],
         "cluster_label": 2,
         "predicted_label": "Body"
     },
     {
-        "text": "Le Panier",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 370.15,
-            "centering_offset": 173.8,
-            "word_count": 2
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            173.8,
-            2,
-            370.15,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": The oldest district in Marseille, Le Panier is a maze of narrow streets, colorful buildings, and historic landmarks. It's a great place to explore the city's past and enjoy its vibrant culture. Local Experiences",
+        "text": "museum explores the cultural history of the Mediterranean region through a variety of\nexhibits and interactive displays.\n•  Le Panier: The oldest district in Marseille, Le Panier is a maze of narrow streets,\ncolorful buildings, and historic landmarks. It's a great place to explore the city's past\nand enjoy its vibrant culture.\nLocal Experiences\n•  Boat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning\nlimestone cliﬀs and coves along the coast.\n•  Fish Market at the Old Port: Visit the fish market at the Old Port to experience the\nlocal seafood culture.\n•  Street Art in Cours Julien: Explore the vibrant street art scene in the Cours Julien\ndistrict.\nCultural Highlights\nMarseille is known for its vibrant arts scene, with numerous galleries, theaters, and music\nvenues. The city hosts several festivals throughout the year, including the Festival de\nMarseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 2,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
-            "y_coordinate": 370.06,
-            "centering_offset": 5.87,
-            "word_count": 35
+            "y_coordinate": 412.36,
+            "centering_offset": 0.61,
+            "word_count": 156
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
-            5.87,
-            35,
-            370.06,
+            0.61,
+            156,
+            412.36,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 284.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            284.36,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Boat Trip to the Calanques",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 285.61,
-            "centering_offset": 129.15,
-            "word_count": 5
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            129.15,
-            5,
-            285.61,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Take a boat trip to the Calanques, a series of stunning limestone cliﬀs and coves along the coast.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 285.52,
-            "centering_offset": 8.23,
-            "word_count": 19
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            8.23,
-            19,
-            285.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 242.06,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            242.06,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Fish Market at the Old Port",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 243.31,
-            "centering_offset": 127.85,
-            "word_count": 6
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            127.85,
-            6,
-            243.31,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": ": Visit the fish market at the Old Port to experience the local seafood culture.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 243.22,
-            "centering_offset": 9.43,
-            "word_count": 15
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            9.43,
-            15,
-            243.22,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 199.76,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            199.76,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Street Art in Cours Julien",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 201.01,
-            "centering_offset": 133.53,
-            "word_count": 5
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            133.53,
-            5,
-            201.01,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": ": Explore the vibrant street art scene in the Cours Julien district. Cultural Highlights Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music venues. The city hosts several festivals throughout the year, including the Festival de Marseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 2,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 200.92,
-            "centering_offset": 9.89,
-            "word_count": 52
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            9.89,
-            52,
-            200.92,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-flavored aperitif) being local favorites.",
+        "text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-\nflavored aperitif ) being local favorites.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 3,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 717.22,
             "centering_offset": 9.69,
-            "word_count": 19
+            "word_count": 21
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             9.69,
-            19,
+            21,
             717.22,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -992,7 +304,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 4,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -1010,587 +321,39 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Nice, located on the French Riviera, has been a popular destination for centuries. Its history dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a Roman colony and has since evolved into a glamorous resort town. In the 19th century, Nice became a favorite winter retreat for European aristocrats, which contributed to its development as a luxurious destination. Key Attractions",
+        "text": "History\nNice, located on the French Riviera, has been a popular destination for centuries. Its history\ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a\nRoman colony and has since evolved into a glamorous resort town. In the 19th century, Nice\nbecame a favorite winter retreat for European aristocrats, which contributed to its\ndevelopment as a luxurious destination.\nKey Attractions\n•  Promenade des Anglais: This famous seaside promenade, built in the 19th century, is\nperfect for a leisurely stroll along the coast. It oﬀers stunning views of the\nMediterranean and is lined with cafes and hotels.\n•  Castle Hill (Colline du Château): This hilltop park oﬀers panoramic views of Nice and\nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in\nthe 18th century.\n•  Old Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets,\nbaroque churches, and bustling markets. Don't miss the Cours Saleya market, where\nyou can find fresh produce, flowers, and local delicacies.\n•  Matisse Museum: Dedicated to the works of Henri Matisse, who spent much of his life\nin Nice, this museum features a comprehensive collection of his paintings, sculptures,\nand drawings.\nHidden Gems\n•  Russian Orthodox Cathedral: Visit the stunning Russian Orthodox Cathedral, a\nunique architectural gem in Nice.\n•  Marc Chagall National Museum: Explore the works of Marc Chagall at this dedicated\nmuseum.\n•  Parc Phoenix: Discover the botanical wonders at Parc Phoenix, a beautiful garden and\npark.\nCultural Highlights\nNice is renowned for its vibrant cultural scene, with numerous museums, galleries, and\ntheaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals\nin the world. The Nice Jazz Festival, held in July, is another major event that attracts music",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 4,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 3.08,
-            "word_count": 68
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            3.08,
-            68,
-            692.08,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 547.16,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            547.16,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Promenade des Anglais",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 548.41,
-            "centering_offset": 136.83,
-            "word_count": 3
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            136.83,
-            3,
-            548.41,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": This famous seaside promenade, built in the 19th century, is perfect for a leisurely stroll along the coast. It oﬀers stunning views of the Mediterranean and is lined with cafes and hotels.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 548.32,
-            "centering_offset": 15.79,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            15.79,
-            33,
-            548.32,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 487.7,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            487.7,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Castle Hill (Colline du Château)",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 488.95,
-            "centering_offset": 116.96,
-            "word_count": 5
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            116.96,
-            5,
-            488.95,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": This hilltop park oﬀers panoramic views of Nice and the Mediterranean. It was once the site of a medieval castle, which was destroyed in the 18th century.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 488.86,
-            "centering_offset": 16.76,
-            "word_count": 28
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.76,
-            28,
-            488.86,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 428.3,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            428.3,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Old Town (Vieux Nice)",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 429.55,
-            "centering_offset": 139.73,
-            "word_count": 4
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            139.73,
-            4,
-            429.55,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": The historic center of Nice is a labyrinth of narrow streets, baroque churches, and bustling markets. Don't miss the Cours Saleya market, where you can find fresh produce, flowers, and local delicacies.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 429.46,
-            "centering_offset": 13.6,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.6,
-            33,
-            429.46,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 368.9,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            368.9,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Matisse Museum",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 370.15,
-            "centering_offset": 154.18,
-            "word_count": 2
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            154.18,
-            2,
-            370.15,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Dedicated to the works of Henri Matisse, who spent much of his life in Nice, this museum features a comprehensive collection of his paintings, sculptures, and drawings. Hidden Gems",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 370.06,
-            "centering_offset": 0.49,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            0.49,
-            30,
-            370.06,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 284.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            284.36,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Russian Orthodox Cathedral",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 285.61,
-            "centering_offset": 124.49,
-            "word_count": 3
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            124.49,
-            3,
-            285.61,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Visit the stunning Russian Orthodox Cathedral, a unique architectural gem in Nice.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 285.52,
-            "centering_offset": 1.0,
-            "word_count": 13
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            1.0,
-            13,
-            285.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 242.06,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            242.06,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Marc Chagall National Museum",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 243.31,
-            "centering_offset": 116.65,
-            "word_count": 4
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            116.65,
-            4,
-            243.31,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "Body"
-    },
-    {
-        "text": ": Explore the works of Marc Chagall at this dedicated museum.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 243.22,
-            "centering_offset": 16.09,
-            "word_count": 11
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.09,
-            11,
-            243.22,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 199.76,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            199.76,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Parc Phoenix",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 201.01,
-            "centering_offset": 164.1,
-            "word_count": 2
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            164.1,
-            2,
-            201.01,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Discover the botanical wonders at Parc Phoenix, a beautiful garden and park. Cultural Highlights Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and theaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals in the world. The Nice Jazz Festival, held in July, is another major event that attracts music",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 4,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 200.92,
             "centering_offset": 0.58,
-            "word_count": 61
+            "word_count": 300
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             0.58,
-            61,
-            200.92,
+            300,
+            692.08,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
-        "text": "lovers from around the globe. Nice's cuisine is also a highlight, with dishes like salade niçoise and socca (a chickpea flour pancake) being local specialties.",
+        "text": "lovers from around the globe. Nice's cuisine is also a highlight, with dishes like salade niçoise\nand socca (a chickpea flour pancake) being local specialties.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 5,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -1608,7 +371,7 @@
             717.22,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -1616,7 +379,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 6,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -1634,501 +396,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the papacy in the 14th century. The city was home to seven popes during this period, leaving a lasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to Roman times, and it has been a significant religious and cultural center for centuries. Key Attractions",
+        "text": "History\nAvignon, located on the banks of the Rhône River, is best known for its role as the seat of the\npapacy in the 14th century. The city was home to seven popes during this period, leaving a\nlasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to\nRoman times, and it has been a significant religious and cultural center for centuries.\nKey Attractions\n•  Palais des Papes: This massive Gothic palace was the residence of the popes during\ntheir stay in Avignon. It is one of the largest and most important medieval Gothic\nbuildings in Europe.\n•  Pont Saint-Bénézet (Pont d'Avignon): This famous bridge, immortalized in the song\n\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches\nremain, it is a UNESCO World Heritage site.\n•  Avignon Cathedral: Located next to the Palais des Papes, this Romanesque cathedral\ndates back to the 12th century and features a gilded statue of the Virgin Mary.\n•  Place de l'Horloge: The main square in Avignon, this lively area is surrounded by\ncafes, restaurants, and historic buildings, including the 19th-century town hall and\nopera house.\nCultural Activities\n•  Opéra Grand Avignon: Attend a performance at the Opéra Grand Avignon for a\ncultural treat.\n•  Arts Scene: Explore the city's vibrant arts scene, with numerous galleries and\nexhibitions.\nCultural Highlights\nAvignon is famous for its annual Festival d'Avignon, held in July, which is one of the most\nimportant contemporary performing arts events in the world. The festival features theater,\ndance, and music performances in various historic venues throughout the city. Avignon's\ncuisine is also notable, with local specialties such as truﬄes, olive oil, and wines from the\nsurrounding vineyards.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 6,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
             "centering_offset": 0.4,
-            "word_count": 67
+            "word_count": 284
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             0.4,
-            67,
+            284,
             692.08,
             6.0
         ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 564.26,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            564.26,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Palais des Papes",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 565.51,
-            "centering_offset": 155.64,
-            "word_count": 3
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            155.64,
-            3,
-            565.51,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": This massive Gothic palace was the residence of the popes during their stay in Avignon. It is one of the largest and most important medieval Gothic buildings in Europe.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 565.42,
-            "centering_offset": 12.04,
-            "word_count": 30
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.04,
-            30,
-            565.42,
-            9.0
-        ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 504.8,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            504.8,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Pont Saint-Bénézet (Pont d'Avignon)",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 506.05,
-            "centering_offset": 103.07,
-            "word_count": 4
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            103.07,
-            4,
-            506.05,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": This famous bridge, immortalized in the song \"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches remain, it is a UNESCO World Heritage site.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 505.96,
-            "centering_offset": 14.0,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.0,
-            31,
-            505.96,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 445.4,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            445.4,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Avignon Cathedral",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 446.65,
-            "centering_offset": 149.6,
-            "word_count": 2
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            149.6,
-            2,
-            446.65,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Located next to the Palais des Papes, this Romanesque cathedral dates back to the 12th century and features a gilded statue of the Virgin Mary.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 446.56,
-            "centering_offset": 16.57,
-            "word_count": 26
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.57,
-            26,
-            446.56,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 403.1,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            403.1,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Place de l'Horloge",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 404.35,
-            "centering_offset": 150.43,
-            "word_count": 3
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            150.43,
-            3,
-            404.35,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": The main square in Avignon, this lively area is surrounded by cafes, restaurants, and historic buildings, including the 19th-century town hall and opera house. Cultural Activities",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 404.26,
-            "centering_offset": 11.39,
-            "word_count": 27
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            11.39,
-            27,
-            404.26,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 318.56,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            318.56,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Opéra Grand Avignon",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 319.81,
-            "centering_offset": 141.54,
-            "word_count": 3
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            141.54,
-            3,
-            319.81,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Attend a performance at the Opéra Grand Avignon for a cultural treat.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 319.72,
-            "centering_offset": 2.29,
-            "word_count": 13
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            2.29,
-            13,
-            319.72,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 276.26,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            276.26,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Arts Scene",
-        "fontname": "KLRPWE+AdobeClean-Bold",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 1,
-            "y_coordinate": 277.51,
-            "centering_offset": 170.29,
-            "word_count": 2
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            1,
-            170.29,
-            2,
-            277.51,
-            9.0
-        ],
-        "cluster_label": 3,
-        "predicted_label": "H2"
-    },
-    {
-        "text": ": Explore the city's vibrant arts scene, with numerous galleries and exhibitions. Cultural Highlights Avignon is famous for its annual Festival d'Avignon, held in July, which is one of the most important contemporary performing arts events in the world. The festival features theater, dance, and music performances in various historic venues throughout the city. Avignon's cuisine is also notable, with local specialties such as truﬄes, olive oil, and wines from the surrounding vineyards.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 6,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 277.42,
-            "centering_offset": 7.76,
-            "word_count": 73
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            7.76,
-            73,
-            277.42,
-            6.0
-        ],
-        "cluster_label": 1,
         "predicted_label": "Body"
     },
     {
@@ -2136,7 +429,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 7,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -2154,345 +446,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, vibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is reflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center of art and learning for centuries, attracting artists, writers, and scholars. Key Attractions",
+        "text": "History\nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture,\nvibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is\nreflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center\nof art and learning for centuries, attracting artists, writers, and scholars.\nKey Attractions\n•  Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is\nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.\n•  Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,\nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is\nknown for its beautiful cloister and triptych by Nicolas Froment.\n•  Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant\nbuilding with a beautiful clock tower and an ornate facade. The square in front of the\nHôtel de Ville is a lively spot, often hosting markets and events.\n•  Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters\nassociated with Aix-en-Provence, is preserved as a museum. Visitors can see where\nCézanne created many of his masterpieces and gain insight into his artistic process.\nArtistic Heritage\n•  Walking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain\ndes Peintres and the Bibémus Quarry.\n•  Local Markets: Visit the city's famous markets, such as the flower market at Place de\nl'Hôtel de Ville or the food market at Place Richelme.\nCultural Highlights\nAix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and\nmusic venues. The city hosts several festivals throughout the year, including the Festival d'Aix-\nen-Provence, which features opera and classical music performances. Aix-en-Provence's\ncuisine is also a highlight, with local specialties such as calissons (almond-shaped candies)\nand Provençal dishes made with fresh, local ingredients.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 7,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 0.83,
-            "word_count": 56
+            "centering_offset": 1.27,
+            "word_count": 314
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
-            0.83,
-            56,
+            1.27,
+            314,
             692.08,
             6.0
         ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 564.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            564.38,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 565.54,
-            "centering_offset": 14.59,
-            "word_count": 28
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            14.59,
-            28,
-            565.54,
-            9.0
-        ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 522.14,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            522.14,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 523.3,
-            "centering_offset": 18.43,
-            "word_count": 34
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            18.43,
-            34,
-            523.3,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 462.86,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            462.86,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the Hôtel de Ville is a lively spot, often hosting markets and events.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 464.02,
-            "centering_offset": 19.27,
-            "word_count": 44
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            19.27,
-            44,
-            464.02,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 403.58,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            403.58,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where Cézanne created many of his masterpieces and gain insight into his artistic process. Artistic Heritage",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 404.74,
-            "centering_offset": 6.98,
-            "word_count": 40
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            6.98,
-            40,
-            404.74,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 319.22,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            319.22,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Walking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain des Peintres and the Bibémus Quarry.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 320.38,
-            "centering_offset": 16.3,
-            "word_count": 22
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.3,
-            22,
-            320.38,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 276.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            276.98,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Local Markets: Visit the city's famous markets, such as the flower market at Place de l'Hôtel de Ville or the food market at Place Richelme. Cultural Highlights Aix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and music venues. The city hosts several festivals throughout the year, including the Festival d'Aix-en-Provence, which features opera and classical music performances. Aix-en-Provence's cuisine is also a highlight, with local specialties such as calissons (almond-shaped candies) and Provençal dishes made with fresh, local ingredients.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 7,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 278.14,
-            "centering_offset": 0.24,
-            "word_count": 83
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            0.24,
-            83,
-            278.14,
-            6.0
-        ],
-        "cluster_label": 1,
         "predicted_label": "Body"
     },
     {
@@ -2500,7 +479,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 8,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -2518,33 +496,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings, is a vibrant city with a rich history. It was an important center during the Roman period and later became a hub of the aerospace industry. Toulouse has been a center of learning and culture for centuries, with a prestigious university and numerous research institutions. Key Attractions",
+        "text": "History\nToulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,\nis a vibrant city with a rich history. It was an important center during the Roman period and\nlater became a hub of the aerospace industry. Toulouse has been a center of learning and\nculture for centuries, with a prestigious university and numerous research institutions.\nKey Attractions\n•  Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th\ncenturies, is a UNESCO World Heritage site. It is one of the largest and best-preserved\nRomanesque churches in Europe.\n•  Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive\nbuilding with a neoclassical facade. It has been the seat of municipal power since the\n12th century.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 8,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 3.56,
-            "word_count": 63
+            "centering_offset": 1.67,
+            "word_count": 127
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
-            3.56,
-            63,
+            1.67,
+            127,
             692.08,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 3,
         "predicted_label": "Body"
     },
     {
@@ -2552,124 +529,19 @@
         "fontname": "ANGNMY+SymbolMT",
         "fontsize": 10.02,
         "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 564.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            564.38,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved Romanesque churches in Europe.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 565.54,
-            "centering_offset": 16.33,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.33,
-            31,
-            565.54,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 505.04,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            505.04,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive building with a neoclassical facade. It has been the seat of municipal power since the 12th century.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 506.2,
-            "centering_offset": 13.96,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.96,
-            31,
-            506.2,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 10.02,
             "indentation": 90.0,
             "is_bold": 0,
             "y_coordinate": 445.76,
-            "centering_offset": 213.7,
+            "centering_offset": 212.3,
             "word_count": 1
         },
         "feature_vector": [
             10.02,
             90.0,
             0,
-            213.7,
+            212.3,
             1,
             445.76,
             8.982
@@ -2678,185 +550,28 @@
         "predicted_label": "Body"
     },
     {
-        "text": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its beautiful cloister and the relics of Saint Thomas Aquinas.",
+        "text": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its\nbeautiful cloister and the relics of Saint Thomas Aquinas.\n•  Cité de l'Espace: This space-themed science museum features interactive exhibits, a\nplanetarium, and a replica of the Mir space station. It's an engaging and educational\nexperience for visitors of all ages.\nAerospace Industry\n•  Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the\nworld's leading aircraft manufacturers.\n•  Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which\nfeatures a collection of historic aircraft.\nCultural Highlights\nToulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues,\nand festivals. The city hosts the Toulouse International Art Festival, which features\ncontemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local\nspecialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular\ndishes.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 8,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
-            "indentation": 108.0,
+            "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 446.92,
-            "centering_offset": 11.67,
-            "word_count": 23
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            11.67,
-            23,
-            446.92,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 403.58,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            403.58,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Cité de l'Espace: This space-themed science museum features interactive exhibits, a planetarium, and a replica of the Mir space station. It's an engaging and educational experience for visitors of all ages. Aerospace Industry",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 404.74,
-            "centering_offset": 6.02,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            6.02,
-            33,
-            404.74,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 319.22,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            319.22,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the world's leading aircraft manufacturers.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 320.38,
-            "centering_offset": 0.7,
-            "word_count": 19
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            0.7,
-            19,
-            320.38,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 276.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            276.98,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which features a collection of historic aircraft. Cultural Highlights Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues, and festivals. The city hosts the Toulouse International Art Festival, which features contemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local specialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular dishes.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 8,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 278.14,
             "centering_offset": 1.39,
-            "word_count": 73
+            "word_count": 151
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             1.39,
-            73,
-            278.14,
+            151,
+            446.92,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 4,
         "predicted_label": "Body"
     },
     {
@@ -2864,7 +579,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 9,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -2882,345 +596,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Montpellier, founded in the 10th century, is known for its prestigious university and vibrant cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern architecture. Montpellier has been a center of learning and innovation for centuries, attracting scholars and students from around the world. Key Attractions",
+        "text": "History\nMontpellier, founded in the 10th century, is known for its prestigious university and vibrant\ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern\narchitecture. Montpellier has been a center of learning and innovation for centuries, attracting\nscholars and students from around the world.\nKey Attractions\n•  Place de la Comédie: The central square of Montpellier, this bustling area is\nsurrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to\nstart exploring the city.\n•  Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its\nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.\n•  Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city\nand features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.\n•  Musée Fabre: One of the most important art museums in France, the Musée Fabre\nhouses an extensive collection of European paintings, sculptures, and decorative arts.\nStudent Life\n•  University Influence: Highlight the vibrant student life and the influence of the\nuniversity on the city's culture.\n•  Modern Architecture: Mention modern architectural landmarks like the Antigone\ndistrict or the Pierresvives building.\nCultural Highlights\nMontpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues,\nand festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary\ndance companies from around the world. Montpellier's cuisine is also notable, with local\nspecialties such as tielle (a savory pie filled with octopus) and wines from the surrounding\nvineyards.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 9,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
             "centering_offset": 0.55,
-            "word_count": 53
+            "word_count": 259
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             0.55,
-            53,
+            259,
             692.08,
             6.0
         ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 564.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            564.38,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Place de la Comédie: The central square of Montpellier, this bustling area is surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to start exploring the city.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 565.54,
-            "centering_offset": 13.15,
-            "word_count": 32
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.15,
-            32,
-            565.54,
-            9.0
-        ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 505.04,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            505.04,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 506.2,
-            "centering_offset": 16.6,
-            "word_count": 28
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.6,
-            28,
-            506.2,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 462.86,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            462.86,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 464.02,
-            "centering_offset": 16.18,
-            "word_count": 26
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.18,
-            26,
-            464.02,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 420.68,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            420.68,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Musée Fabre: One of the most important art museums in France, the Musée Fabre houses an extensive collection of European paintings, sculptures, and decorative arts. Student Life",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 421.84,
-            "centering_offset": 1.94,
-            "word_count": 27
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            1.94,
-            27,
-            421.84,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 353.36,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            353.36,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "University Influence: Highlight the vibrant student life and the influence of the university on the city's culture.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 354.52,
-            "centering_offset": 3.05,
-            "word_count": 17
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            3.05,
-            17,
-            354.52,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 311.18,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            311.18,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Modern Architecture: Mention modern architectural landmarks like the Antigone district or the Pierresvives building. Cultural Highlights Montpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues, and festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary dance companies from around the world. Montpellier's cuisine is also notable, with local specialties such as tielle (a savory pie filled with octopus) and wines from the surrounding vineyards.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 9,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 312.34,
-            "centering_offset": 0.92,
-            "word_count": 70
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            0.92,
-            70,
-            312.34,
-            6.0
-        ],
-        "cluster_label": 1,
         "predicted_label": "Body"
     },
     {
@@ -3228,7 +629,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 10,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -3246,345 +646,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Perpignan, located near the Spanish border, has a unique blend of French and Catalan influences. The city was once the capital of the Kingdom of Majorca and has a rich history reflected in its architecture and culture. Perpignan's strategic location has made it a crossroads of cultures and traditions. Key Attractions",
+        "text": "History\nPerpignan, located near the Spanish border, has a unique blend of French and Catalan\ninfluences. The city was once the capital of the Kingdom of Majorca and has a rich history\nreflected in its architecture and culture. Perpignan's strategic location has made it a\ncrossroads of cultures and traditions.\nKey Attractions\n•  Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was\nthe residence of the Kings of Majorca. It oﬀers panoramic views of the city and the\nsurrounding countryside.\n•  Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this\nGothic cathedral was built in the 14th century and features a beautiful cloister and bell\ntower.\n•  Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of\nPerpignan. It now houses the Casa Pairal Museum, which showcases the history and\nculture of the region.\n•  Loge de Mer: This historic building, originally a maritime trading exchange, dates back\nto the 14th century. It is located in the heart of the old town and is a testament to\nPerpignan's rich mercantile history.\nCultural Fusion\n•  Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals,\ncuisine, and traditions.\n•  Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or\nexploring the Pyrenees mountains.\nCultural Highlights\nPerpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan\ntraditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in\nvarious genres. Perpignan's cuisine is also notable, with local specialties such as cargolade\n(grilled snails) and wines from the Roussillon region.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 10,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 10.04,
-            "word_count": 52
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            10.04,
-            52,
-            692.08,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 564.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            564.38,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was the residence of the Kings of Majorca. It oﬀers panoramic views of the city and the surrounding countryside.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 565.54,
-            "centering_offset": 13.9,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.9,
-            33,
-            565.54,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 505.04,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            505.04,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this Gothic cathedral was built in the 14th century and features a beautiful cloister and bell tower.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 506.2,
-            "centering_offset": 17.35,
-            "word_count": 29
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.35,
-            29,
-            506.2,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 445.76,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            445.76,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of Perpignan. It now houses the Casa Pairal Museum, which showcases the history and culture of the region.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 446.92,
-            "centering_offset": 12.67,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.67,
-            31,
-            446.92,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 386.48,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            386.48,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Loge de Mer: This historic building, originally a maritime trading exchange, dates back to the 14th century. It is located in the heart of the old town and is a testament to Perpignan's rich mercantile history. Cultural Fusion",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 387.64,
             "centering_offset": 0.14,
-            "word_count": 38
+            "word_count": 270
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             0.14,
-            38,
-            387.64,
+            270,
+            692.08,
             6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 302.12,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            302.12,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals, cuisine, and traditions.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 303.28,
-            "centering_offset": 9.76,
-            "word_count": 16
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            9.76,
-            16,
-            303.28,
-            9.0
         ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 259.88,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            259.88,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or exploring the Pyrenees mountains. Cultural Highlights Perpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan traditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in various genres. Perpignan's cuisine is also notable, with local specialties such as cargolade (grilled snails) and wines from the Roussillon region.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 10,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 261.04,
-            "centering_offset": 8.94,
-            "word_count": 65
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            8.94,
-            65,
-            261.04,
-            6.0
-        ],
-        "cluster_label": 1,
         "predicted_label": "Body"
     },
     {
@@ -3592,7 +679,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 11,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -3610,345 +696,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque monuments. The city was an important Roman settlement and later became a center of Christian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent van Gogh and Pablo Picasso. Key Attractions",
+        "text": "History\nArles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque\nmonuments. The city was an important Roman settlement and later became a center of\nChristian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent\nvan Gogh and Pablo Picasso.\nKey Attractions\n•  Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used\nfor events such as bullfights and concerts. It is one of the best-preserved Roman\nstructures in France.\n•  Church of St. Trophime: This Romanesque church, built in the 12th century, is known\nfor its stunning portal and cloister. It was an important stop on the pilgrimage route to\nSantiago de Compostela.\n•  Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a\nmajor burial site in antiquity. It features a long avenue lined with sarcophagi.\n•  Thermes de Constantin: These Roman baths, built in the 4th century AD, are a\ntestament to the city's importance during the Roman period.\nArtistic Influence\n•  Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the\nlocations that inspired his paintings.\n•  Photography: Recommend visiting during the Rencontres d'Arles photography festival\nfor a unique cultural experience.\nCultural Highlights\nArles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The\ncity hosts the Rencontres d'Arles, an international photography festival that attracts artists\nand photographers from around the world. Arles' cuisine is also notable, with local specialties\nsuch as bull meat stew and wines from the surrounding vineyards.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 11,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 3.11,
-            "word_count": 52
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            3.11,
-            52,
-            692.08,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 564.38,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            564.38,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used for events such as bullfights and concerts. It is one of the best-preserved Roman structures in France.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 565.54,
-            "centering_offset": 16.39,
-            "word_count": 31
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            16.39,
-            31,
-            565.54,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 505.04,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            505.04,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Church of St. Trophime: This Romanesque church, built in the 12th century, is known for its stunning portal and cloister. It was an important stop on the pilgrimage route to Santiago de Compostela.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 506.2,
-            "centering_offset": 17.32,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            17.32,
-            33,
-            506.2,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 445.76,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            445.76,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a major burial site in antiquity. It features a long avenue lined with sarcophagi.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 446.92,
-            "centering_offset": 12.46,
-            "word_count": 26
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            12.46,
-            26,
-            446.92,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 403.58,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            403.58,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a testament to the city's importance during the Roman period. Artistic Influence",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 404.74,
-            "centering_offset": 20.45,
-            "word_count": 25
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            20.45,
-            25,
-            404.74,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 336.26,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            336.26,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the locations that inspired his paintings.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 337.42,
-            "centering_offset": 4.04,
-            "word_count": 20
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            4.04,
-            20,
-            337.42,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 294.08,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            294.08,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Photography: Recommend visiting during the Rencontres d'Arles photography festival for a unique cultural experience. Cultural Highlights Arles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The city hosts the Rencontres d'Arles, an international photography festival that attracts artists and photographers from around the world. Arles' cuisine is also notable, with local specialties such as bull meat stew and wines from the surrounding vineyards.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 11,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 295.24,
             "centering_offset": 0.61,
-            "word_count": 68
+            "word_count": 261
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
             0.61,
-            68,
-            295.24,
+            261,
+            692.08,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 0,
         "predicted_label": "Body"
     },
     {
@@ -3956,7 +729,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 12,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -3974,345 +746,32 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "History Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval architecture. The city's history dates back to the Roman period, but it is best known for its role in the medieval period as a stronghold during the Albigensian Crusade. Carcassonne's double-walled fortifications and 52 towers make it one of the most impressive examples of medieval architecture in Europe. Key Attractions",
+        "text": "History\nCarcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval\narchitecture. The city's history dates back to the Roman period, but it is best known for its\nrole in the medieval period as a stronghold during the Albigensian Crusade. Carcassonne's\ndouble-walled fortifications and 52 towers make it one of the most impressive examples of\nmedieval architecture in Europe.\nKey Attractions\n•  Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one\nof the most impressive examples of medieval architecture in Europe. It features double\nwalls, 52 towers, and a castle.\n•  Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located\nwithin the fortress, dates back to the 11th century. It is known for its beautiful stained\nglass windows.\n•  Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide\ninsight into the history and architecture of Carcassonne.\n•  Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town.\nIt oﬀers stunning views of the fortress and the surrounding countryside.\nMedieval Life\n•  Reenactments: Provide insights into medieval life in Carcassonne, including\nreenactments and historical tours.\n•  Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its\nvineyards and picturesque villages.\nCultural Highlights\nCarcassonne is known for its vibrant cultural scene, with numerous festivals and events\nthroughout the year. The city hosts the Festival de Carcassonne, which features music,\ntheater, and dance performances in various historic venues. Carcassonne's cuisine is also\nnotable, with local specialties such as cassoulet (a hearty bean and meat stew) and wines\nfrom the surrounding vineyards.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 12,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
             "is_bold": 0,
             "y_coordinate": 692.08,
-            "centering_offset": 1.33,
-            "word_count": 65
+            "centering_offset": 1.36,
+            "word_count": 266
         },
         "feature_vector": [
             12.0,
             72.0,
             0,
-            1.33,
-            65,
+            1.36,
+            266,
             692.08,
             6.0
         ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 547.28,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            547.28,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one of the most impressive examples of medieval architecture in Europe. It features double walls, 52 towers, and a castle.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 548.44,
-            "centering_offset": 19.36,
-            "word_count": 33
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            19.36,
-            33,
-            548.44,
-            9.0
-        ],
         "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 487.94,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            487.94,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located within the fortress, dates back to the 11th century. It is known for its beautiful stained glass windows.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 489.1,
-            "centering_offset": 13.45,
-            "word_count": 28
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.45,
-            28,
-            489.1,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 428.66,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            428.66,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide insight into the history and architecture of Carcassonne.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 429.82,
-            "centering_offset": 13.24,
-            "word_count": 21
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            13.24,
-            21,
-            429.82,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 386.48,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            386.48,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town. It oﬀers stunning views of the fortress and the surrounding countryside. Medieval Life",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 387.64,
-            "centering_offset": 1.52,
-            "word_count": 26
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            1.52,
-            26,
-            387.64,
-            6.0
-        ],
-        "cluster_label": 1,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 319.22,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            319.22,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Reenactments: Provide insights into medieval life in Carcassonne, including reenactments and historical tours.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 108.0,
-            "is_bold": 0,
-            "y_coordinate": 320.38,
-            "centering_offset": 8.69,
-            "word_count": 13
-        },
-        "feature_vector": [
-            12.0,
-            108.0,
-            0,
-            8.69,
-            13,
-            320.38,
-            9.0
-        ],
-        "cluster_label": 0,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "•",
-        "fontname": "ANGNMY+SymbolMT",
-        "fontsize": 10.02,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 10.02,
-            "indentation": 90.0,
-            "is_bold": 0,
-            "y_coordinate": 276.98,
-            "centering_offset": 213.7,
-            "word_count": 1
-        },
-        "feature_vector": [
-            10.02,
-            90.0,
-            0,
-            213.7,
-            1,
-            276.98,
-            8.982
-        ],
-        "cluster_label": 2,
-        "predicted_label": "Body"
-    },
-    {
-        "text": "Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its vineyards and picturesque villages. Cultural Highlights Carcassonne is known for its vibrant cultural scene, with numerous festivals and events throughout the year. The city hosts the Festival de Carcassonne, which features music, theater, and dance performances in various historic venues. Carcassonne's cuisine is also notable, with local specialties such as cassoulet (a hearty bean and meat stew) and wines from the surrounding vineyards.",
-        "fontname": "KOLFWE+AdobeClean-Regular",
-        "fontsize": 12.0,
-        "page_number": 12,
-        "document_name": "South of France - Cities",
-        "features": {
-            "font_size": 12.0,
-            "indentation": 72.0,
-            "is_bold": 0,
-            "y_coordinate": 278.14,
-            "centering_offset": 0.25,
-            "word_count": 74
-        },
-        "feature_vector": [
-            12.0,
-            72.0,
-            0,
-            0.25,
-            74,
-            278.14,
-            6.0
-        ],
-        "cluster_label": 1,
         "predicted_label": "Body"
     },
     {
@@ -4320,7 +779,6 @@
         "fontname": "KLRPWE+AdobeClean-Bold",
         "fontsize": 12.0,
         "page_number": 13,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -4338,15 +796,14 @@
             717.19,
             6.0
         ],
-        "cluster_label": 4,
-        "predicted_label": "H3"
+        "cluster_label": 1,
+        "predicted_label": "H1"
     },
     {
-        "text": "The South of France is home to a diverse array of cities, each with its own unique history, culture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval fortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures and cultural experiences waiting to be discovered. Use this guide to plan your journey through the South of France and immerse yourself in the fascinating history and culture of this beautiful region.",
+        "text": "The South of France is home to a diverse array of cities, each with its own unique history,\nculture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval\nfortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the\nregion. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of\nAix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical\ntreasures and cultural experiences waiting to be discovered. Use this guide to plan your\njourney through the South of France and immerse yourself in the fascinating history and\nculture of this beautiful region.",
         "fontname": "KOLFWE+AdobeClean-Regular",
         "fontsize": 12.0,
         "page_number": 13,
-        "document_name": "South of France - Cities",
         "features": {
             "font_size": 12.0,
             "indentation": 72.0,
@@ -4364,7 +821,7 @@
             692.08,
             6.0
         ],
-        "cluster_label": 1,
+        "cluster_label": 3,
         "predicted_label": "Body"
     }
 ]

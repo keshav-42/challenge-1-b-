@@ -148,7 +148,7 @@ def post_process_blocks(blocks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
                     block['predicted_label'] = 'H1'
             
             word_count = block["features"].get("word_count", 0)
-            if word_count > 8 or not is_valid_heading_start(text):
+            if word_count > 15 or not is_valid_heading_start(text):
                  block["predicted_label"] = "Body"
                  
     return blocks
