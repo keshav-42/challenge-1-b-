@@ -1,0 +1,1926 @@
+[
+    {
+        "text": "A Culinary Journey Through the South of France Introduction",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 0,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 108.49,
+            "word_count": 9
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            108.49,
+            9,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "The South of France, known for its stunning landscapes and charming villages, is also a paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, fresh ingredients, and traditional recipes passed down through generations. This guide will take you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned wine regions, and the types of wines they produce to help you plan an unforgettable culinary adventure.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 0,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 667.0,
+            "centering_offset": 0.01,
+            "word_count": 71
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            0.01,
+            71,
+            667.0,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Types of Food",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 196.06,
+            "word_count": 3
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            196.06,
+            3,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "H2"
+    },
+    {
+        "text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural influences. Here are some key types of food you can expect to find:",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 692.08,
+            "centering_offset": 6.74,
+            "word_count": 29
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            6.74,
+            29,
+            692.08,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 648.74,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            648.74,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea bass, and mussels marinière. The region's proximity to the Mediterranean Sea ensures that the seafood is always fresh and flavorful.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 649.9,
+            "centering_offset": 18.58,
+            "word_count": 58
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.58,
+            58,
+            649.9,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 555.26,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            555.26,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Provençal Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential Provençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made from olives, capers, and anchovies, and pissaladière, a savory tart topped with caramelized onions, olives, and anchovies.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 556.42,
+            "centering_offset": 17.05,
+            "word_count": 53
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            17.05,
+            53,
+            556.42,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 461.78,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            461.78,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Niçoise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Niçoise, a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other Niçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and olive oil, and daube, a slow-cooked beef stew with red wine and vegetables.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 462.94,
+            "centering_offset": 16.76,
+            "word_count": 51
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            16.76,
+            51,
+            462.94,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 385.4,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            385.4,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish. Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage, beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod spread.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 386.56,
+            "centering_offset": 14.38,
+            "word_count": 53
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            14.38,
+            53,
+            386.56,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 291.92,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            291.92,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like piperade, a pepper and tomato stew, and axoa, a veal stew with peppers. Basque cuisine is also known for its pintxos, small snacks typically served in bars, and gâteau Basque, a traditional Basque cake filled with pastry cream or cherry jam.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 1,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 293.08,
+            "centering_offset": 14.64,
+            "word_count": 52
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            14.64,
+            52,
+            293.08,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Famous Dishes",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 193.72,
+            "word_count": 2
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            193.72,
+            2,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "H2"
+    },
+    {
+        "text": "The South of France is home to many iconic dishes that you must try during your visit:",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 692.08,
+            "centering_offset": 18.45,
+            "word_count": 17
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            18.45,
+            17,
+            692.08,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 665.84,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            665.84,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 667.0,
+            "centering_offset": 12.85,
+            "word_count": 57
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            12.85,
+            57,
+            667.0,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 572.36,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            572.36,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned with herbs de Provence. Ratatouille can be served as a main dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a testament to the region's love for fresh, seasonal produce.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 573.52,
+            "centering_offset": 12.79,
+            "word_count": 52
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            12.79,
+            52,
+            573.52,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 495.98,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            495.98,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 497.14,
+            "centering_offset": 18.82,
+            "word_count": 54
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.82,
+            54,
+            497.14,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 419.6,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            419.6,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically enjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best eaten hot, straight from the oven. It's a simple yet delicious snack that showcases the region's love for humble, rustic dishes.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 420.76,
+            "centering_offset": 14.98,
+            "word_count": 52
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            14.98,
+            52,
+            420.76,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 343.22,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            343.22,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Cassoulet: A hearty casserole from the Languedoc region, made with white beans, sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow cooking to develop its rich, complex flavors. The dish is a comforting and satisfying meal that is perfect for a chilly evening.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 344.38,
+            "centering_offset": 10.0,
+            "word_count": 49
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            10.0,
+            49,
+            344.38,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 266.78,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            266.78,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Tarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a creamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is perfect for a special occasion or as an indulgent afternoon snack. The dessert was created by a Polish baker in the 1950s and quickly became a favorite among locals and tourists alike.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 2,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 267.94,
+            "centering_offset": 18.79,
+            "word_count": 60
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.79,
+            60,
+            267.94,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Must-Visit Restaurants",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 174.19,
+            "word_count": 2
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            174.19,
+            2,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "H2"
+    },
+    {
+        "text": "To truly experience the culinary delights of the South of France, here are some restaurants you should consider visiting:",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 692.08,
+            "centering_offset": 8.72,
+            "word_count": 19
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            8.72,
+            19,
+            692.08,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 648.74,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            648.74,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald Passedat is known for his innovative approach to seafood, creating dishes that are both visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs overlooking the sea adds to the overall dining experience.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 649.9,
+            "centering_offset": 11.83,
+            "word_count": 54
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            11.83,
+            54,
+            649.9,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 555.26,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            555.26,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making it the perfect spot for a romantic dinner. The menu features dishes that highlight the region's fresh, seasonal ingredients.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 556.42,
+            "centering_offset": 16.99,
+            "word_count": 52
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            16.99,
+            52,
+            556.42,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 461.78,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            461.78,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with many ingredients sourced from the restaurant's own gardens. The menu changes with the seasons, ensuring that each visit is a new and exciting experience.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 462.94,
+            "centering_offset": 17.35,
+            "word_count": 61
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            17.35,
+            61,
+            462.94,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 368.3,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            368.3,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and delicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved institution in Nice. The restaurant's simple, no-frills approach allows the quality of the Socca to shine through.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 369.46,
+            "centering_offset": 18.46,
+            "word_count": 48
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.46,
+            48,
+            369.46,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 291.92,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            291.92,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "L'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its creative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes are a feast for the senses, combining bold flavors with artistic presentation. The restaurant's tasting menu oﬀers a journey through the flavors of Provence, with each course showcasing the region's finest ingredients.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 293.08,
+            "centering_offset": 16.51,
+            "word_count": 54
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            16.51,
+            54,
+            293.08,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 198.44,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            198.44,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "La Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a sophisticated menu that highlights the flavors of the region. The restaurant is located in a historic building in the heart of Saint-Émilion, a town known for its world-class wines. The menu features dishes that pair beautifully with the local wines, creating a truly memorable dining experience.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 3,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 199.6,
+            "centering_offset": 14.2,
+            "word_count": 56
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            14.2,
+            56,
+            199.6,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Wine Regions and Types of Wines",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 145.81,
+            "word_count": 6
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            145.81,
+            6,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "H2"
+    },
+    {
+        "text": "The South of France is renowned for its diverse and exceptional wine regions. Here are some key areas to explore and the types of wines they produce:",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 692.08,
+            "centering_offset": 1.97,
+            "word_count": 27
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            1.97,
+            27,
+            692.08,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 648.74,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            648.74,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Provence: Famous for its rosé wines, Provence is one of the oldest wine-producing regions in France. The region's sunny climate and diverse terroir contribute to the production of light, refreshing rosés, as well as robust reds and aromatic whites. Key appellations include Côtes de Provence, Bandol, and Cassis. Notable grape varieties include Grenache, Syrah, Mourvèdre, and Cinsault for reds and rosés, and Rolle (Vermentino) and Clairette for whites.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 649.9,
+            "centering_offset": 12.52,
+            "word_count": 68
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            12.52,
+            68,
+            649.9,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 538.16,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            538.16,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Languedoc-Roussillon: This vast region stretches along the Mediterranean coast and is known for its variety of wine styles. Languedoc-Roussillon produces everything from crisp whites and fruity rosés to full-bodied reds. Notable appellations include Corbières, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan, Grenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for whites.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 539.32,
+            "centering_offset": 18.55,
+            "word_count": 57
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.55,
+            57,
+            539.32,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 427.58,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            427.58,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Rhône Valley: The southern part of the Rhône Valley is famous for its powerful red wines, particularly those from Châteauneuf-du-Pape. The region also produces excellent whites and rosés. Other important appellations include Gigondas, Vacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and Mourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 428.74,
+            "centering_offset": 9.58,
+            "word_count": 55
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            9.58,
+            55,
+            428.74,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 334.1,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            334.1,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "South West France (Sud-Ouest): This lesser-known region is home to a variety of unique wines made from indigenous grape varieties. The area includes sub-regions such as Bergerac, Cahors, and Madiran. South West France is known for its robust reds, aromatic whites, and sweet dessert wines. Key grape varieties include Malbec (known locally as Côt), Tannat, and Négrette for reds, and Gros Manseng, Petit Manseng, and Colombard for whites.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 335.26,
+            "centering_offset": 19.17,
+            "word_count": 68
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            19.17,
+            68,
+            335.26,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 223.52,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            223.52,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Corsica: Although technically an island, Corsica is often included in discussions of Southern French wine regions. The island's diverse terroir and Mediterranean climate produce a range of wines, including crisp whites, fruity rosés, and spicy reds. Key appellations include Ajaccio, Patrimonio, and Vin de Corse. Notable grape varieties include Nielluccio (Sangiovese), Sciacarello, and Vermentino.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 4,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 224.68,
+            "centering_offset": 15.46,
+            "word_count": 54
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            15.46,
+            54,
+            224.68,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Culinary Experiences",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 178.06,
+            "word_count": 2
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            178.06,
+            2,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "H2"
+    },
+    {
+        "text": "In addition to dining at top restaurants, there are several culinary experiences you should consider:",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 692.08,
+            "centering_offset": 10.82,
+            "word_count": 15
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            10.82,
+            15,
+            692.08,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 648.74,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            648.74,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte tropézienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 649.9,
+            "centering_offset": 12.0,
+            "word_count": 63
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            12.0,
+            63,
+            649.9,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 555.26,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            555.26,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These markets are a feast for the senses, with stalls overflowing with colorful fruits and vegetables, fragrant herbs, and artisanal products. Take the time to chat with the vendors and learn about the local specialties.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 556.42,
+            "centering_offset": 11.92,
+            "word_count": 61
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            11.92,
+            61,
+            556.42,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 461.78,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            461.78,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Wine Tours: The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries oﬀer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites. Don't miss the chance to try rosé from Provence, which is famous for its light, refreshing flavor.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 462.94,
+            "centering_offset": 18.6,
+            "word_count": 70
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.6,
+            70,
+            462.94,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 368.3,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            368.3,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn about olive oil production and enjoy a tasting session. You'll have the chance to sample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma. Many olive groves also produce other products like tapenade and olive soap, which make great souvenirs.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 369.46,
+            "centering_offset": 18.13,
+            "word_count": 62
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            18.13,
+            62,
+            369.46,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 274.82,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            274.82,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Truﬄe Hunting: The South of France is known for its truﬄes, particularly the black truﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of searching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a knowledgeable guide who will teach you about the truﬄe's history and culinary uses. After the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 275.98,
+            "centering_offset": 15.94,
+            "word_count": 69
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            15.94,
+            69,
+            275.98,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 181.34,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            181.34,
+            8.982
+        ],
+        "cluster_label": 0,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-table philosophy, sourcing their ingredients from local farms and producers. Look for restaurants that highlight seasonal, locally grown produce and sustainably raised meats. Dining at a farm-to-table restaurant is a wonderful way to support local agriculture and enjoy the freshest ingredients available.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 5,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 182.5,
+            "centering_offset": 14.47,
+            "word_count": 53
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            14.47,
+            53,
+            182.5,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 6,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 716.06,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            716.06,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Cheese Tasting: The South of France is home to a variety of delicious cheeses, including Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a farm to sample these cheeses and learn about their production. Many cheese producers oﬀer tours and tastings, giving you the opportunity to discover the unique flavors and textures of the region's cheeses.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 6,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 717.22,
+            "centering_offset": 14.05,
+            "word_count": 59
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            14.05,
+            59,
+            717.22,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "•",
+        "fontname": "MIQNDA+SymbolMT",
+        "fontsize": 10.02,
+        "page_number": 6,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 10.02,
+            "indentation": 90.0,
+            "is_bold": 0,
+            "y_coordinate": 622.58,
+            "centering_offset": 213.7,
+            "word_count": 1
+        },
+        "feature_vector": [
+            10.02,
+            90.0,
+            0,
+            213.7,
+            1,
+            622.58,
+            8.982
+        ],
+        "cluster_label": 4,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Pastry Workshops: French pastries are renowned worldwide, and the South of France is no exception. Join a pastry workshop to learn how to make classic French pastries like croissants, éclairs, and macarons. These workshops are a fun and interactive way to improve your baking skills and take home some delicious treats.",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 6,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 108.0,
+            "is_bold": 0,
+            "y_coordinate": 623.74,
+            "centering_offset": 15.93,
+            "word_count": 51
+        },
+        "feature_vector": [
+            12.0,
+            108.0,
+            0,
+            15.93,
+            51,
+            623.74,
+            9.0
+        ],
+        "cluster_label": 1,
+        "predicted_label": "Body"
+    },
+    {
+        "text": "Conclusion",
+        "fontname": "REMGVQ+AdobeClean-Bold",
+        "fontsize": 12.0,
+        "page_number": 7,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 1,
+            "y_coordinate": 717.19,
+            "centering_offset": 203.89,
+            "word_count": 1
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            1,
+            203.89,
+            1,
+            717.19,
+            6.0
+        ],
+        "cluster_label": 3,
+        "predicted_label": "H2"
+    },
+    {
+        "text": "The South of France oﬀers a rich and diverse culinary landscape that is sure to delight any food lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary experiences, there is something for everyone to enjoy. Whether you're savoring a bowl of bouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred meal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan your culinary journey and savor the tastes of the South of France, creating memories that will linger long after your trip has ended. Bon appétit!",
+        "fontname": "HFITLK+AdobeClean-Regular",
+        "fontsize": 12.0,
+        "page_number": 7,
+        "document_name": "South of France - Cuisine",
+        "features": {
+            "font_size": 12.0,
+            "indentation": 72.0,
+            "is_bold": 0,
+            "y_coordinate": 692.08,
+            "centering_offset": 0.88,
+            "word_count": 100
+        },
+        "feature_vector": [
+            12.0,
+            72.0,
+            0,
+            0.88,
+            100,
+            692.08,
+            6.0
+        ],
+        "cluster_label": 2,
+        "predicted_label": "Body"
+    }
+]
