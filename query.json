@@ -1,13 +1,15 @@
 {  
   "document_name":[ 
-    "South of France - Cities.pdf",
-    "South of France - Cuisine.pdf",
-    "South of France - History.pdf",
-    "South of France - Restaurants and Hotels.pdf",
-    "South of France - Things to Do.pdf",
-    "South of France - Tips and Tricks.pdf",
-    "South of France - Traditions and Culture.pdf"  
+    "Breakfast Ideas",
+    "Dinner Ideas - Mains_1",
+    "Dinner Ideas - Mains_2",
+    "Dinner Ideas - Mains_3",
+    "Dinner Ideas - Sides_1",
+    "Dinner Ideas - Sides_2",
+    "Dinner Ideas - Sides_3",
+    "Dinner Ideas - Sides_4",
+    "Lunch Ideas"  
   ],
-  "persona": { "role": "Travel Planner" },
-  "job": { "task": "Plan a trip of 4 days for a group of 10 college friends." }
+  "persona": { "role": "Food Contractor" },
+  "job": { "task": "Prepare a vegetarian,gluten-free buffet-style dinner menu for a corporate gathering." }
 }

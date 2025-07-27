@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
     # --- How to Run ---
     # This script assumes you have already run a chunking/parsing script.
-    # python embedding.py --input_dir chunked_data --output_dir indexed_data
+    # python embedding.py --input_dir chunked --output_dir embedded
     process_chunked_directory(args.input_dir, args.output_dir)
 
 # import os
