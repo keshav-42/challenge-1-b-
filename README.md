@@ -2,6 +2,23 @@
 
 This project provides a document processing pipeline that can be run using Docker for easy deployment and consistent results.
 
+## Important: Query Configuration Required
+
+**Before running the pipeline, you must modify the `query.json` file** to specify:
+- Your **persona** (role you want the AI to assume)
+- Your **job to be done** (specific task or question you want answered)
+- Your **input query** (the actual question or search request)
+- The **document filenames** that should be processed
+
+## Available Document Collections
+
+The following document collections are available in the `input/` directory:
+
+- **Collection_1/PDFs/** - South of France Travel Documents
+- **Collection_2/PDFs/** - Acrobat Learning Documents  
+- **Collection_3/PDFs/** - Recipe Documents
+- **your-collection/PDFs/** - Your custom document collection
+
 ## Docker Usage Instructions
 
 Follow these steps to use the Docker container for processing your PDF documents:
@@ -28,10 +45,10 @@ First, modify the `query.json` file to specify your requirements:
     }
   ],
   "persona": {
-    "role": "Your Role"
+    "role": "Your Role (e.g., Travel Expert, Chef, Technical Writer)"
   },
   "job_to_be_done": {
-    "task": "Your specific task description"
+    "task": "Your specific task description and query"
   }
 }
 ```
