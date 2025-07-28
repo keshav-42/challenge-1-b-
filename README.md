@@ -1,226 +1,136 @@
-# Automated Document Processing Pipeline
+# Document Processing Pipeline
 
-This repository contains a containerized, automated pipeline for processing PDF documents through semantic search and AI-powered analysis.
+This project provides a document processing pipeline that can be run using Docker for easy deployment and consistent results.
 
-## Approach
+## Docker Usage Instructions
 
-This solution implements a multi-stage document processing pipeline that:
+Follow these steps to use the Docker container for processing your PDF documents:
 
-1. **Extracts structured text** from PDFs with semantic and stylistic features
-2. **Creates feature vectors** from text blocks for machine learning analysis
-3. **Applies clustering and labeling** to identify document structure (headings, body text, etc.)
-4. **Chunks content semantically** into searchable units with hierarchical section IDs
-5. **Generates embeddings** using sentence transformers and creates FAISS search indexes
-6. **Performs intelligent search** using LLM-enhanced queries and semantic similarity
+### Step 1: Configure Your Query
 
-The pipeline is designed to be:
-
-- **Fully automated** - One command execution from input to output
-- **Containerized** - Runs consistently across different environments
-- **Modular** - Each step can be run independently for debugging
-- **Robust** - Handles encoding issues and provides detailed logging
-
-## Models and Libraries Used
-
-### Core ML Models
-
-- **Sentence Transformers**: `sentence-transformers/all-MiniLM-L6-v2` for text embeddings
-- **TinyLlama**: `TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF` for query enhancement via LLM
-- **FAISS**: Facebook AI Similarity Search for efficient vector similarity search
-- **MiniBatchKMeans**: Scikit-learn clustering for document structure analysis
-
-### Key Libraries
-
-- **pdfminer.six**: Advanced PDF text extraction with layout analysis
-- **llama-cpp-python**: CPU-optimized LLM inference
-- **transformers & torch**: Hugging Face ecosystem for ML models
-- **nltk**: Natural language processing utilities
-- **scikit-learn**: Machine learning algorithms for clustering and feature processing
-
-## Docker Build and Run Instructions
-
-### Building the Docker Image
-
-```bash
-docker build --platform linux/amd64 -t document-processor:v1.0 .
-```
-
-### Running the Solution
-
-The container runs completely offline with all models pre-cached:
-
-```bash
-docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none document-processor:v1.0
-```
-
-**Important Notes:**
-
-- Ensure your `input/` directory contains PDF files before running
-- The `query.json` file should be present in the container (included in build)
-- Output will be written to `output.json` in the mounted output directory
-- The container runs with `--network none` for security (offline processing)
-- All models are pre-downloaded, so no internet access is needed at runtime
-
-## Local Development (Non-Docker)
-
-### Prerequisites
-
-1. Python 3.8+ with required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Place your PDF files in the `input/` directory
-
-3. Configure your search query in `query.json`:
-   ```json
-   {
-     "document_name": ["Document Name 1", "Document Name 2"],
-     "persona": { "role": "Your Role" },
-     "job": { "task": "Your search task description" }
-   }
-   ```
-
-### Running the Pipeline Locally
-
-Execute the complete pipeline with a single command:
-
-```bash
-python pipeline.py
-```
-
-### Pipeline Options
-
-```bash
-# Run full pipeline with cleanup (default)
-python pipeline.py
-
-# Run pipeline without cleaning intermediate directories
-python pipeline.py --no-clean
-
-# Check current pipeline status
-python pipeline.py --status
-
-# Use custom workspace directory
-python pipeline.py --workspace /path/to/workspace
-```
-
-## Directory Structure
-
-```
-workspace/
-├── input/              # Place PDF files here
-├── output_parsed/      # Parsed text blocks (intermediate)
-├── output_vectors/     # Feature vectors (intermediate)
-├── output_labeled/     # Labeled blocks (intermediate)
-├── chunked/           # Semantic chunks (intermediate)
-├── embedded/          # FAISS embeddings (intermediate)
-├── query.json         # Search configuration
-├── output.json        # Final search results
-└── pipeline.py        # Main pipeline script
-```
-
-## Pipeline Steps Explained
-
-1. **Parsing** (`parsing.py`): Extracts text from PDFs with layout and font analysis
-2. **Build Vectors** (`build_vectors.py`): Creates numerical feature vectors from text properties
-3. **Cluster & Label** (`cluster_and_label.py`): Uses ML to identify headings, body text, etc.
-4. **Chunking** (`chunking.py`): Groups related content into searchable semantic units
-5. **Embedding** (`embedding.py`): Creates vector embeddings and FAISS search index
-6. **Main Search** (`main_search.py`): Uses LLM and embeddings to find relevant content
-
-## Manual Step Execution
-
-You can also run individual steps manually for debugging:
-
-```bash
-# Step 1: Parse PDFs
-python parsing.py --input_dir input --output_dir output
-
-# Step 2: Build feature vectors
-python build_vectors.py --input_dir output --output_dir output_vectors
-
-# Step 3: Cluster and label
-python cluster_and_label.py --input_dir output_vectors --output_dir output_labeled
-
-# Step 4: Create chunks
-python chunking.py --input_dir output_labeled --output_dir chunked
-
-# Step 5: Create embeddings
-python embedding.py --input_dir chunked --output_dir embedded
-
-# Step 6: Perform search
-python main_search.py --data_dir embedded --query_json query.json --output_file output.json
-```
-
-## Output Format
-
-The final `output.json` contains:
+First, modify the `query.json` file to specify your requirements:
 
 ```json
 {
-  "metadata": {
-    "input_documents": ["doc1.pdf", "doc2.pdf"],
-    "persona": { "role": "Food Contractor" },
-    "job_to_be_done": { "task": "Find vegetarian recipes" },
-    "enhanced_query_used": "LLM-generated expanded query"
+  "challenge_info": {
+    "challenge_id": "your_challenge_id",
+    "test_case_name": "your_test_case",
+    "description": "Your description"
   },
-  "extracted_sections": [
+  "documents": [
     {
-      "document": "doc1.pdf",
-      "section_title": "Vegetarian Main Dishes",
-      "importance_rank": 1,
-      "page_number": 5
+      "filename": "document1.pdf",
+      "title": "Document 1 Title"
+    },
+    {
+      "filename": "document2.pdf",
+      "title": "Document 2 Title"
     }
   ],
-  "subsection_analysis": [
-    {
-      "document": "doc1.pdf",
-      "refined_text": "Detailed recipe text...",
-      "page_number": 5
-    }
-  ]
+  "persona": {
+    "role": "Your Role"
+  },
+  "job_to_be_done": {
+    "task": "Your specific task description"
+  }
 }
 ```
 
-## Troubleshooting
+### Step 2: Prepare Your Input Directory
 
-### Common Issues
+Create or modify the input directory structure to include your PDF collection. The PDFs mentioned in `query.json` should be placed in the input directory. For example:
 
-1. **Missing Dependencies**: `pip install -r requirements.txt`
-2. **No PDF Files**: Place PDFs in `input/` directory
-3. **Invalid query.json**: Check JSON format and required fields
-4. **Encoding Errors**: The pipeline handles UTF-8 automatically
-5. **Memory Issues**: Large PDFs may require more RAM for processing
+```
+input/
+├── Collection_1/
+│   └── PDFs/
+│       ├── document1.pdf
+│       ├── document2.pdf
+│       └── ...
+├── Collection_2/
+│   └── PDFs/
+│       ├── other_document1.pdf
+│       └── other_document2.pdf
+└── ...
+```
 
-### Pipeline Status Check
+### Step 3: Build the Docker Image
+
+Build the Docker image using the following command:
 
 ```bash
-python pipeline.py --status
+docker build -t document-processor .
 ```
 
-Shows current state of all intermediate directories and final output.
+### Step 4: Run the Docker Container
 
-## Technical Architecture
+Run the container while mounting your local input directory and output directory:
 
-The solution uses a microservices-style architecture where each processing step is independent:
-
-- **Modularity**: Each step can be developed and tested separately
-- **Fault Tolerance**: Pipeline stops on errors with clear diagnostics
-- **Scalability**: Steps can be parallelized or distributed in future versions
-- **Maintainability**: Clear separation of concerns with well-defined interfaces
-
-## License
-
-[Specify your license here]
-pdfminer.six
-numpy
-scikit-learn
-faiss-cpu
-sentence-transformers
-nltk
-
+```bash
+docker run -v /path/to/your/local/input:/app/input -v /path/to/your/local/output:/app/output document-processor
 ```
 
+### Step 5: Retrieve Results
+
+After the container finishes processing, you'll find the results in your local output directory under `output.json`.
+
+## Docker Command Examples
+
+### Example 1: Processing Collection_1 (South of France Travel Documents)
+
+```bash
+# Build the image
+docker build -t document-processor:v1.0 .
+
+# Run with Collection_1 (Git Bash on Windows)
+docker run --rm -v //$(pwd)/input/Collection_1/PDFs:/app/input -v //$(pwd)/output:/app/output --network none document-processor:v1.0
+
+# Run with Collection_1 (Linux/Mac)
+docker run --rm -v $(pwd)/input/Collection_1/PDFs:/app/input -v $(pwd)/output:/app/output --network none document-processor:v1.0
 ```
+
+### Example 2: Processing Collection_2 (Acrobat Learning Documents)
+
+```bash
+# Run with Collection_2 (Git Bash on Windows)
+docker run --rm -v //$(pwd)/input/Collection_2/PDFs:/app/input -v //$(pwd)/output:/app/output --network none document-processor:v1.0
+
+# Run with Collection_2 (Linux/Mac)
+docker run --rm -v $(pwd)/input/Collection_2/PDFs:/app/input -v $(pwd)/output:/app/output --network none document-processor:v1.0
+```
+
+### Example 3: Processing Collection_3 (Recipe Documents)
+
+```bash
+# Run with Collection_3 (Git Bash on Windows)
+docker run --rm -v //$(pwd)/input/Collection_3/PDFs:/app/input -v //$(pwd)/output:/app/output --network none document-processor:v1.0
+
+# Run with Collection_3 (Linux/Mac)
+docker run --rm -v $(pwd)/input/Collection_3/PDFs:/app/input -v $(pwd)/output:/app/output --network none document-processor:v1.0
+```
+
+### Example 4: Processing Custom Collection
+
+```bash
+# For your own custom collection (Git Bash on Windows)
+docker run --rm -v //$(pwd)/input/your-collection/PDFs:/app/input -v //$(pwd)/output:/app/output --network none document-processor:v1.0
+
+# For your own custom collection (Linux/Mac)
+docker run --rm -v $(pwd)/input/your-collection/PDFs:/app/input -v $(pwd)/output:/app/output --network none document-processor:v1.0
+```
+
+## Important Notes
+
+- **Recommended Command**: Use the command with `--rm` (auto-cleanup), `--network none` (offline mode), and versioned tag (`document-processor:v1.0`) for best practices.
+- **Different Collections**: For each different collection, you need to mount the specific collection directory during the `docker run` command, as shown in the examples above.
+- **Path Format**: Use `//$(pwd)` for Git Bash on Windows and `$(pwd)` for Linux/Mac to provide relative path mounting from your current directory.
+- **Query Configuration**: Make sure your `query.json` file references the correct PDF filenames that exist in your mounted input directory.
+- **Output Location**: The processed results will always appear in the mounted output directory as `output.json`.
+- **Container Cleanup**: The `--rm` flag automatically removes the container after processing is complete.
+- **Offline Mode**: The `--network none` flag ensures the container runs completely offline after the initial build.
+
+## Troubleshooting
+
+- Ensure that the PDF files specified in `query.json` exist in the mounted input directory
+- Check that you have proper read/write permissions for the mounted directories
+- Verify that Docker has sufficient resources allocated for processing large PDF collections
