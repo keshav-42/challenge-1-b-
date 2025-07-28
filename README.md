@@ -1,19 +1,67 @@
 # Automated Document Processing Pipeline
 
-This repository contains an automated pipeline for processing PDF documents through semantic search and analysis.
+This repository contains a containerized, automated pipeline for processing PDF documents through semantic search and AI-powered analysis.
 
-## Overview
+## Approach
 
-The pipeline executes the following sequence:
+This solution implements a multi-stage document processing pipeline that:
 
-1. **Parsing** - Extract text blocks from PDF files with style and semantic features
-2. **Build Vectors** - Create feature vectors from text blocks
-3. **Cluster & Label** - Cluster blocks and assign hierarchical labels
-4. **Chunking** - Convert blocks into semantic chunks with section IDs
-5. **Embedding** - Create FAISS embeddings and search index
-6. **Main Search** - Perform semantic search and generate final output
+1. **Extracts structured text** from PDFs with semantic and stylistic features
+2. **Creates feature vectors** from text blocks for machine learning analysis
+3. **Applies clustering and labeling** to identify document structure (headings, body text, etc.)
+4. **Chunks content semantically** into searchable units with hierarchical section IDs
+5. **Generates embeddings** using sentence transformers and creates FAISS search indexes
+6. **Performs intelligent search** using LLM-enhanced queries and semantic similarity
 
-## Quick Start
+The pipeline is designed to be:
+
+- **Fully automated** - One command execution from input to output
+- **Containerized** - Runs consistently across different environments
+- **Modular** - Each step can be run independently for debugging
+- **Robust** - Handles encoding issues and provides detailed logging
+
+## Models and Libraries Used
+
+### Core ML Models
+
+- **Sentence Transformers**: `sentence-transformers/all-MiniLM-L6-v2` for text embeddings
+- **TinyLlama**: `TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF` for query enhancement via LLM
+- **FAISS**: Facebook AI Similarity Search for efficient vector similarity search
+- **MiniBatchKMeans**: Scikit-learn clustering for document structure analysis
+
+### Key Libraries
+
+- **pdfminer.six**: Advanced PDF text extraction with layout analysis
+- **llama-cpp-python**: CPU-optimized LLM inference
+- **transformers & torch**: Hugging Face ecosystem for ML models
+- **nltk**: Natural language processing utilities
+- **scikit-learn**: Machine learning algorithms for clustering and feature processing
+
+## Docker Build and Run Instructions
+
+### Building the Docker Image
+
+```bash
+docker build --platform linux/amd64 -t document-processor:v1.0 .
+```
+
+### Running the Solution
+
+The container runs completely offline with all models pre-cached:
+
+```bash
+docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none document-processor:v1.0
+```
+
+**Important Notes:**
+
+- Ensure your `input/` directory contains PDF files before running
+- The `query.json` file should be present in the container (included in build)
+- Output will be written to `output.json` in the mounted output directory
+- The container runs with `--network none` for security (offline processing)
+- All models are pre-downloaded, so no internet access is needed at runtime
+
+## Local Development (Non-Docker)
 
 ### Prerequisites
 
@@ -34,7 +82,7 @@ The pipeline executes the following sequence:
    }
    ```
 
-### Running the Pipeline
+### Running the Pipeline Locally
 
 Execute the complete pipeline with a single command:
 
@@ -63,7 +111,7 @@ python pipeline.py --workspace /path/to/workspace
 ```
 workspace/
 ├── input/              # Place PDF files here
-├── output/             # Parsed text blocks (intermediate)
+├── output_parsed/      # Parsed text blocks (intermediate)
 ├── output_vectors/     # Feature vectors (intermediate)
 ├── output_labeled/     # Labeled blocks (intermediate)
 ├── chunked/           # Semantic chunks (intermediate)
@@ -73,17 +121,18 @@ workspace/
 └── pipeline.py        # Main pipeline script
 ```
 
-## What Happens When You Run the Pipeline
+## Pipeline Steps Explained
 
-1. **Automatic Cleanup**: All intermediate directories are cleared to ensure a fresh start
-2. **Sequential Processing**: Each step runs only after the previous step completes successfully
-3. **Error Handling**: Pipeline stops if any step fails, with detailed error messages
-4. **Progress Tracking**: Real-time logging shows which step is currently running
-5. **Final Validation**: Checks that `output.json` was created successfully
+1. **Parsing** (`parsing.py`): Extracts text from PDFs with layout and font analysis
+2. **Build Vectors** (`build_vectors.py`): Creates numerical feature vectors from text properties
+3. **Cluster & Label** (`cluster_and_label.py`): Uses ML to identify headings, body text, etc.
+4. **Chunking** (`chunking.py`): Groups related content into searchable semantic units
+5. **Embedding** (`embedding.py`): Creates vector embeddings and FAISS search index
+6. **Main Search** (`main_search.py`): Uses LLM and embeddings to find relevant content
 
 ## Manual Step Execution
 
-You can also run individual steps manually:
+You can also run individual steps manually for debugging:
 
 ```bash
 # Step 1: Parse PDFs
@@ -105,62 +154,73 @@ python embedding.py --input_dir chunked --output_dir embedded
 python main_search.py --data_dir embedded --query_json query.json --output_file output.json
 ```
 
-## Pipeline Status
+## Output Format
 
-Check the current state of your pipeline:
+The final `output.json` contains:
 
-```bash
-python pipeline.py --status
+```json
+{
+  "metadata": {
+    "input_documents": ["doc1.pdf", "doc2.pdf"],
+    "persona": { "role": "Food Contractor" },
+    "job_to_be_done": { "task": "Find vegetarian recipes" },
+    "enhanced_query_used": "LLM-generated expanded query"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc1.pdf",
+      "section_title": "Vegetarian Main Dishes",
+      "importance_rank": 1,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "doc1.pdf",
+      "refined_text": "Detailed recipe text...",
+      "page_number": 5
+    }
+  ]
+}
 ```
-
-This shows:
-
-- Number of input PDF files
-- Status of intermediate directories
-- Whether final output exists
 
 ## Troubleshooting
 
 ### Common Issues
 
-1. **Missing Dependencies**: Install required packages with `pip install -r requirements.txt`
-2. **No PDF Files**: Ensure PDF files are in the `input/` directory
-3. **Invalid query.json**: Check that `query.json` has proper format and required fields
-4. **Permission Errors**: Ensure write permissions for the workspace directory
+1. **Missing Dependencies**: `pip install -r requirements.txt`
+2. **No PDF Files**: Place PDFs in `input/` directory
+3. **Invalid query.json**: Check JSON format and required fields
+4. **Encoding Errors**: The pipeline handles UTF-8 automatically
+5. **Memory Issues**: Large PDFs may require more RAM for processing
 
-### Debug Mode
-
-For detailed output, check the logs during pipeline execution. Each step provides:
-
-- Start/completion timestamps
-- File counts and paths
-- Error messages with details
-
-### Clean Start
-
-To completely reset the pipeline:
+### Pipeline Status Check
 
 ```bash
-python pipeline.py  # (automatically cleans intermediate directories)
+python pipeline.py --status
 ```
 
-## Output Format
+Shows current state of all intermediate directories and final output.
 
-The final `output.json` contains:
+## Technical Architecture
 
-- **metadata**: Input documents, persona, and enhanced query used
-- **extracted_sections**: Ranked sections with importance scores
-- **subsection_analysis**: Detailed text content for each section
+The solution uses a microservices-style architecture where each processing step is independent:
 
-## Requirements
+- **Modularity**: Each step can be developed and tested separately
+- **Fault Tolerance**: Pipeline stops on errors with clear diagnostics
+- **Scalability**: Steps can be parallelized or distributed in future versions
+- **Maintainability**: Clear separation of concerns with well-defined interfaces
 
-Create a `requirements.txt` file with the necessary dependencies:
+## License
 
-```txt
+[Specify your license here]
 pdfminer.six
 numpy
 scikit-learn
 faiss-cpu
 sentence-transformers
 nltk
+
+```
+
 ```

@@ -1,8 +1,13 @@
-# Python
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
+*.pyo
+*.pyd
 .Python
 build/
 develop-eggs/
@@ -19,29 +24,31 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # Virtual environments
 venv/
 env/
 ENV/
-.venv/
 
-# IDE
+# IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
 
-# Logs
+# Log files
 *.log
 
-# Output directories (intermediate results)
+# Temporary files
+*.tmp
+*.temp
+
+# Large intermediate directories (will be created in container)
 output_parsed/
 output_vectors/
 output_labeled/
@@ -49,14 +56,5 @@ chunked/
 embedded/
 waste/
 
-# Final outputs (comment out if you want to track results)
-output.json
-ranked_output.json
-
-# Docker test artifacts
-test_input/
-test_output/
-
-# Model cache (can be large)
-.cache/
-models/
+# Keep only the sample input and query.json
+# Everything else will be mounted or created at runtime

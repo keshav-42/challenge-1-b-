@@ -10,15 +10,34 @@ class FastLanguageModel:
     """
     def __init__(self, model_repo_id: str, model_filename: str):
         print("Downloading GGUF model (if not cached)...")
+        
+        # Set offline mode environment variables
+        import os
+        os.environ['HF_HUB_OFFLINE'] = '1'
+        os.environ['TRANSFORMERS_OFFLINE'] = '1'
+        
         try:
             self.model_path = hf_hub_download(
                 repo_id=model_repo_id,
-                filename=model_filename
+                filename=model_filename,
+                local_files_only=True  # Force offline mode
             )
             print("GGUF Model located.")
         except Exception as e:
-            print(f"Error downloading model: {e}")
-            sys.exit(1)
+            print(f"Error loading cached model: {e}")
+            # Try to find the model in cache manually
+            from huggingface_hub import snapshot_download
+            try:
+                cache_dir = snapshot_download(
+                    repo_id=model_repo_id,
+                    local_files_only=True,
+                    allow_patterns=[model_filename]
+                )
+                self.model_path = os.path.join(cache_dir, model_filename)
+                print(f"GGUF Model found in cache: {self.model_path}")
+            except Exception as e2:
+                print(f"Error finding model in cache: {e2}")
+                sys.exit(1)
         
         print("Loading model with llama-cpp...")
         self.model = Llama(

@@ -7,15 +7,27 @@ import nltk
 
 def setup_nltk():
     """
-    Downloads the 'punkt' tokenizer models if not already present.
+    Downloads the required tokenizer models if not already present.
     This is required for sentence tokenization.
     """
     try:
-        nltk.data.find('tokenizers/punkt')
-    except nltk.downloader.DownloadError:
-        print("NLTK 'punkt' model not found. Downloading...")
-        nltk.download('punkt')
-        print("Download complete.")
+        # Try the newer punkt_tab first
+        nltk.data.find('tokenizers/punkt_tab')
+    except LookupError:
+        try:
+            # Fall back to older punkt
+            nltk.data.find('tokenizers/punkt')
+        except LookupError:
+            print("NLTK tokenizer models not found. Downloading...")
+            try:
+                # Try downloading punkt_tab first (newer version)
+                nltk.download('punkt_tab')
+                print("Downloaded punkt_tab tokenizer.")
+            except:
+                # Fall back to punkt if punkt_tab fails
+                nltk.download('punkt')
+                print("Downloaded punkt tokenizer.")
+            print("Download complete.")
 
 class HierarchicalChunker:
     """

@@ -22,11 +22,18 @@ class EmbeddingIndexer:
     A class to create a FAISS index from hierarchical text chunks.
     It handles model loading and the indexing process.
     """
-    def __init__(self, model_name='all-MiniLM-L6-v2'):
+    def __init__(self, model_name='sentence-transformers/all-MiniLM-L6-v2'):
         """
         Initializes the Indexer with a sentence transformer model.
         """
         print(f"Loading sentence transformer model: {model_name}...")
+        
+        # Set environment variables to ensure offline mode
+        import os
+        os.environ['TRANSFORMERS_OFFLINE'] = '1'
+        os.environ['HF_HUB_OFFLINE'] = '1'
+        
+        # Load the model (should use cached version)
         self.model = SentenceTransformer(model_name)
         print("Model loaded successfully.")
 

@@ -14,9 +14,15 @@ class EmbeddingHandler:
 
         Args:
             model_name (str): The name of the sentence-transformer model.
-            cache_dir (str, optional): A directory to cache the downloaded model.
         """
         print(f"Loading embedding model: {model_name}...")
+        
+        # Set environment variables to ensure offline mode
+        import os
+        os.environ['TRANSFORMERS_OFFLINE'] = '1'
+        os.environ['HF_HUB_OFFLINE'] = '1'
+        
+        # Load the model (should use cached version)
         self.model = SentenceTransformer(model_name)
         print("Embedding model loaded successfully.")
 

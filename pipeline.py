@@ -9,7 +9,7 @@ This script creates a clean, automated pipeline that:
 4. Wipes old results if re-run with new input
 5. Produces final output.json
 
-Sequence: parsing -> build_vectors -> cluster_and_label -> chunking -> embedding -> main_search -> output.json
+Sequence: parsing → output_parsed → build_vectors → output_vectors → cluster_and_label → output_labeled → chunking → chunked → embedding → embedded → main_search → output.json
 """
 
 import os
@@ -28,13 +28,16 @@ class DocumentProcessingPipeline:
     def __init__(self, workspace_dir: str = None):
         """Initialize the pipeline with workspace directory."""
         self.workspace_dir = Path(workspace_dir) if workspace_dir else Path(__file__).parent
-        self.input_dir = self.workspace_dir / "input/Collection_3/PDFs"
-        self.output_dir = self.workspace_dir / "output"
+        
+        # Auto-detect input directory
+        self.input_dir = self._detect_input_directory()
+        
+        self.output_parsed_dir = self.workspace_dir / "output_parsed"
         self.chunked_dir = self.workspace_dir / "chunked"
         self.output_labeled_dir = self.workspace_dir / "output_labeled"
         self.embedded_dir = self.workspace_dir / "embedded"
         self.output_vectors_dir = self.workspace_dir / "output_vectors"
-        self.waste_dir = self.workspace_dir / "waste"
+        # self.waste_dir = self.workspace_dir / "waste"
         
         # Pipeline step modules
         self.modules = {
@@ -48,32 +51,97 @@ class DocumentProcessingPipeline:
         
         # Intermediate directories that get cleaned
         self.intermediate_dirs = [
-            self.output_dir,
+            self.output_parsed_dir,
             self.chunked_dir, 
             self.output_labeled_dir,
             self.embedded_dir,
             self.output_vectors_dir
         ]
         
+    def _detect_input_directory(self) -> Path:
+        """Auto-detect the input directory with PDF files."""
+        base_input_dir = self.workspace_dir / "input"
+        
+        # If input directory contains PDFs directly, use it
+        if base_input_dir.exists():
+            pdf_files = list(base_input_dir.glob("*.pdf"))
+            if pdf_files:
+                return base_input_dir
+            
+            # Also check one level deep for any subdirectory with PDFs
+            for subdir in base_input_dir.iterdir():
+                if subdir.is_dir():
+                    pdf_files = list(subdir.glob("*.pdf"))
+                    if pdf_files:
+                        return subdir
+        
+        # Fallback to the input directory itself
+        return base_input_dir
+        
     def log(self, message: str, level: str = "INFO"):
         """Log messages with timestamp."""
         timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
         print(f"[{timestamp}] {level}: {message}")
         
-    def clean_intermediate_directories(self):
+    def clean_intermediate_directories(self, force=False):
         """Remove and recreate all intermediate directories."""
         self.log("Cleaning intermediate directories...")
         
         for dir_path in self.intermediate_dirs:
             if dir_path.exists():
-                self.log(f"Removing {dir_path}")
-                shutil.rmtree(dir_path)
-            
-            self.log(f"Creating {dir_path}")
-            dir_path.mkdir(parents=True, exist_ok=True)
-            
-        # Create waste directory if it doesn't exist
-        self.waste_dir.mkdir(parents=True, exist_ok=True)
+                try:
+                    # Count files before cleaning
+                    existing_files = list(dir_path.rglob("*"))
+                    file_count = len([f for f in existing_files if f.is_file()])
+                    
+                    if file_count > 0:
+                        self.log(f"Found {file_count} existing files in {dir_path}")
+                    
+                    # Try to remove contents instead of the directory itself
+                    # This handles mounted volumes that can't be removed
+                    for item in dir_path.iterdir():
+                        if item.is_file():
+                            item.unlink()
+                        elif item.is_dir():
+                            shutil.rmtree(item)
+                    
+                    # Verify cleaning was successful
+                    remaining_files = list(dir_path.rglob("*"))
+                    remaining_count = len([f for f in remaining_files if f.is_file()])
+                    
+                    if remaining_count == 0:
+                        self.log(f"✓ Successfully cleaned {dir_path}")
+                    else:
+                        self.log(f"⚠ {remaining_count} files remain in {dir_path}", "WARNING")
+                        
+                except OSError as e:
+                    if "Device or resource busy" in str(e) or force:
+                        self.log(f"Directory {dir_path} is mounted or busy, forcing cleanup")
+                        # More aggressive cleaning for Docker scenarios
+                        for item in dir_path.iterdir():
+                            try:
+                                if item.is_file():
+                                    item.unlink()
+                                elif item.is_dir():
+                                    shutil.rmtree(item)
+                            except OSError:
+                                # Try to remove individual files
+                                if item.is_dir():
+                                    for subitem in item.rglob("*"):
+                                        try:
+                                            if subitem.is_file():
+                                                subitem.unlink()
+                                        except OSError:
+                                            pass
+                                    try:
+                                        item.rmdir()
+                                    except OSError:
+                                        pass
+                    else:
+                        self.log(f"Could not clean {dir_path}: {e}", "WARNING")
+            else:
+                self.log(f"Creating {dir_path}")
+                dir_path.mkdir(parents=True, exist_ok=True)
         
     def validate_input(self) -> bool:
         """Validate that input directory exists and contains files."""
@@ -114,12 +182,24 @@ class DocumentProcessingPipeline:
         self.log(f"Running {step}: {' '.join(cmd)}")
         
         try:
+            # Set environment variables for UTF-8 encoding and offline mode
+            env = os.environ.copy()
+            env['PYTHONIOENCODING'] = 'utf-8'
+            env['PYTHONUTF8'] = '1'
+            
+            # Ensure offline mode for transformers and huggingface
+            env['TRANSFORMERS_OFFLINE'] = '1'
+            env['HF_HUB_OFFLINE'] = '1'
+            
             result = subprocess.run(
                 cmd, 
                 cwd=self.workspace_dir,
                 capture_output=True, 
                 text=True, 
-                check=True
+                check=True,
+                env=env,
+                encoding='utf-8',
+                errors='replace'
             )
             
             self.log(f"+ {step} completed successfully")
@@ -141,7 +221,7 @@ class DocumentProcessingPipeline:
         
         args = [
             "--input_dir", str(self.input_dir),
-            "--output_dir", str(self.output_dir)
+            "--output_dir", str(self.output_parsed_dir)
         ]
         
         return self.run_module('parsing', args)
@@ -151,7 +231,7 @@ class DocumentProcessingPipeline:
         self.log("=== Step 2: Building Vectors ===")
         
         args = [
-            "--input_dir", str(self.output_dir),
+            "--input_dir", str(self.output_parsed_dir),
             "--output_dir", str(self.output_vectors_dir)
         ]
         
@@ -199,11 +279,14 @@ class DocumentProcessingPipeline:
         if not query_file.exists():
             self.log(f"Query file {query_file} not found", "ERROR")
             return False
-            
+        
+        # Determine output file location (for Docker compatibility)
+        output_file = self.workspace_dir / "output.json"
+        
         args = [
             "--data_dir", str(self.embedded_dir),
             "--query_json", str(query_file),
-            "--output_file", str(self.workspace_dir / "output.json")
+            "--output_file", str(output_file)
         ]
         
         return self.run_module('main_search', args)
@@ -225,9 +308,15 @@ class DocumentProcessingPipeline:
             self.log(f"Final output.json is not valid JSON: {e}", "ERROR")
             return False
             
-    def run_pipeline(self, clean: bool = True) -> bool:
+    def run_pipeline(self, clean: bool = True, force_clean: bool = False) -> bool:
         """Run the complete pipeline."""
         self.log("Starting Document Processing Pipeline")
+        
+        # Check if we're running in Docker (common environment variable)
+        in_docker = os.path.exists('/.dockerenv') or os.environ.get('DOCKER_CONTAINER', False)
+        if in_docker:
+            self.log("Detected Docker environment - forcing clean start")
+            force_clean = True
         
         # Validation steps
         if not self.validate_modules():
@@ -238,7 +327,7 @@ class DocumentProcessingPipeline:
             
         # Clean intermediate directories
         if clean:
-            self.clean_intermediate_directories()
+            self.clean_intermediate_directories(force=force_clean)
             
         # Execute pipeline steps in sequence
         pipeline_steps = [
@@ -295,6 +384,7 @@ def main():
 Examples:
   python pipeline.py                    # Run full pipeline with cleanup
   python pipeline.py --no-clean        # Run pipeline without cleaning intermediate dirs
+  python pipeline.py --force-clean     # Force aggressive cleanup (useful for Docker)
   python pipeline.py --status          # Show current pipeline status
   python pipeline.py --workspace /path # Run with custom workspace directory
         """
@@ -311,6 +401,12 @@ Examples:
         "--no-clean",
         action="store_true", 
         help="Skip cleaning intermediate directories"
+    )
+    
+    parser.add_argument(
+        "--force-clean",
+        action="store_true",
+        help="Force aggressive cleaning of intermediate directories (useful for Docker)"
     )
     
     parser.add_argument(
@@ -341,7 +437,8 @@ Examples:
         
     # Run pipeline
     clean = not args.no_clean
-    success = pipeline.run_pipeline(clean=clean)
+    force_clean = args.force_clean
+    success = pipeline.run_pipeline(clean=clean, force_clean=force_clean)
     
     if not success:
         sys.exit(1)

@@ -2,6 +2,7 @@
 import os
 import json
 import argparse
+from datetime import datetime
 
 # --- Import our new modular components ---
 from llm_handler import FastLanguageModel
@@ -17,12 +18,26 @@ def run_search(args):
         print(f"Error: --query_json '{args.query_json}' is not a valid file path.")
         exit(1)
 
-    document_names = query_data.get("document_name", [])
+    # Handle both old and new query.json formats
+    if "documents" in query_data:
+        # New format with documents array
+        documents = query_data.get("documents", [])
+        document_titles = [doc.get("title", "") for doc in documents]
+        document_filenames = [doc.get("filename", "") for doc in documents]
+        # Create mapping from title to filename for file operations
+        title_to_filename = {doc.get("title", ""): doc.get("filename", "") for doc in documents}
+    else:
+        # Old format with document_name array
+        document_names = query_data.get("document_name", [])
+        document_titles = document_names
+        document_filenames = document_names
+        title_to_filename = {name: name for name in document_names}
+    
     persona = query_data.get("persona", {})
-    job = query_data.get("job", {})
+    job_to_be_done = query_data.get("job_to_be_done", {})
 
-    if not all([document_names, persona, job]):
-        print("Error: Query JSON must contain 'document_name' (list), 'persona' (object), and 'job' (object).")
+    if not all([document_titles, persona, job_to_be_done]):
+        print("Error: Query JSON must contain documents/document_name, persona, and job_to_be_done.")
         exit(1)
         
     # --- Step 1: Instantiate AI Handlers ---
@@ -35,25 +50,7 @@ def run_search(args):
     
     # --- Step 2: Use LLM to Generate Enhanced Query Content ---
     persona_role = persona.get('role', 'user')
-    job_task = job.get('task', 'find relevant information')
-
-    document_titles = [
-            "Learn Acrobat - Create and Convert_1",
-            "Learn Acrobat - Create and Convert_2",
-            "Learn Acrobat - Edit_1",
-            "Learn Acrobat - Edit_2",
-            "Learn Acrobat - Export_1",
-            "Learn Acrobat - Export_2",
-            "Learn Acrobat - Fill and Sign",
-            "Learn Acrobat - Generative AI_1",
-            "Learn Acrobat - Generative AI_2",
-            "Learn Acrobat - Request e-signatures_1",
-            "Learn Acrobat - Request e-signatures_2",
-            "Learn Acrobat - Share_1",
-            "Learn Acrobat - Share_2",
-            "Test Your Acrobat Exporting Skills",
-            "The Ultimate PDF Sharing Checklist"
-    ]
+    job_task = job_to_be_done.get('task', 'find relevant information')
     
     # Create messages for LLM to generate enhanced query content
     system_prompt = (
@@ -107,10 +104,12 @@ def run_search(args):
     
     # --- Step 4: Retrieve and Rank Candidates ---
     all_candidates = []
-    for doc_name in document_names:
-        print(f"--- Retrieving candidates from: {doc_name} ---")
+    for doc_title in document_titles:
+        print(f"--- Retrieving candidates from: {doc_title} ---")
         try:
-            base_filename = os.path.splitext(doc_name)[0]
+            # Get the filename for this title
+            filename = title_to_filename.get(doc_title, doc_title)
+            base_filename = os.path.splitext(filename)[0]
             index_path = os.path.join(args.data_dir, f"{base_filename}.index")
             map_path = os.path.join(args.data_dir, f"{base_filename}_map.json")
             
@@ -118,10 +117,11 @@ def run_search(args):
             candidates = searcher.retrieve_candidates(query_vector, top_k=30)
             
             for cand in candidates:
-                cand['document_name'] = doc_name
+                cand['document_name'] = doc_title  # Use title for display
+                cand['document_filename'] = filename  # Keep filename for reference
             all_candidates.extend(candidates)
         except (FileNotFoundError, RuntimeError) as e:
-            print(f"Warning: Could not process '{doc_name}'. Skipping. Details: {e}")
+            print(f"Warning: Could not process '{doc_title}'. Skipping. Details: {e}")
 
     print(f"\n--- Re-ranking {len(all_candidates)} candidates for final importance score ---")
     final_ranked_results = re_rank_results(all_candidates)
@@ -129,9 +129,10 @@ def run_search(args):
     # --- Step 5: Format and Save Final Output ---
     final_output = {
         "metadata": {
-            "input_documents": document_names,
-            "persona": persona,
-            "job_to_be_done": job,
+            "input_documents": document_filenames,  # Use filenames in metadata
+            "persona": persona_role,  # Direct text, not nested object
+            "job_to_be_done": job_task,  # Direct text, not nested object
+            "processing_timestamp": datetime.now().isoformat(),
             "enhanced_query_used": enhanced_query_text
         },
         "extracted_sections": [],
@@ -145,15 +146,25 @@ def run_search(args):
         if section_key not in seen_sections:
             final_top_n.append(res)
             seen_sections.add(section_key)
-        # Removed the top_n limit - now includes ALL results
+        # Limit to top 10 results
+        if len(final_top_n) >= 10:
+            break
             
     for i, res in enumerate(final_top_n):
+        # Ensure document name has .pdf extension for display
+        doc_name = res.get("document_name", "")
+        if doc_name and not doc_name.lower().endswith('.pdf'):
+            doc_name = f"{doc_name}.pdf"
+        
         final_output["extracted_sections"].append({
-            "document": res.get("document_name"), "section_title": res.get("section_title"),
-            "importance_rank": i + 1, "page_number": res.get("page_number")
+            "document": doc_name, 
+            "section_title": res.get("section_title"),
+            "importance_rank": i + 1, 
+            "page_number": res.get("page_number")
         })
         final_output["subsection_analysis"].append({
-            "document": res.get("document_name"), "refined_text": res.get("text"),
+            "document": doc_name, 
+            "refined_text": res.get("text"),
             "page_number": res.get("page_number")
         })
 
