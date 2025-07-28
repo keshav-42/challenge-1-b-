@@ -16,9 +16,9 @@ class EmbeddingHandler:
             model_name (str): The name of the sentence-transformer model.
             cache_dir (str, optional): A directory to cache the downloaded model.
         """
-        print(f"🔍 Loading embedding model: {model_name}...")
+        print(f"Loading embedding model: {model_name}...")
         self.model = SentenceTransformer(model_name)
-        print("   Embedding model loaded successfully.")
+        print("Embedding model loaded successfully.")
 
     def encode(self, texts: list, batch_size: int = 32) -> np.ndarray:
         """

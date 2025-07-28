@@ -98,7 +98,7 @@ def run_search(args):
     enhanced_query_text = llm.generate(messages=messages, max_tokens=200)
     
     print("\n" + "="*80)
-    print("🤖 LLM-Generated Enhanced Query:")
+    print("LLM-Generated Enhanced Query:")
     print(f"   '{enhanced_query_text}'")
     print("="*80 + "\n")
 
@@ -161,7 +161,7 @@ def run_search(args):
     with open(args.output_file, 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
     
-    print("✅ Ranking complete.")
+    print("Ranking complete.")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(

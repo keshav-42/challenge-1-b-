@@ -15,7 +15,7 @@ class FastLanguageModel:
                 repo_id=model_repo_id,
                 filename=model_filename
             )
-            print("✅ GGUF Model located.")
+            print("GGUF Model located.")
         except Exception as e:
             print(f"Error downloading model: {e}")
             sys.exit(1)
@@ -27,7 +27,7 @@ class FastLanguageModel:
             n_gpu_layers=0,
             verbose=False
         )
-        print("✅ Model loaded successfully on CPU.")
+        print("Model loaded successfully on CPU.")
 
     def generate(self, messages: list, max_tokens: int = 150) -> str:
         """

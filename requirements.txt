@@ -1,0 +1,8 @@
+pdfminer.six
+numpy
+scikit-learn
+faiss-cpu
+sentence-transformers
+nltk
+transformers
+torch
